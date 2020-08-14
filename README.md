@@ -1,5 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
+![](https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true&hide_border=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhuig&hide=html)
 
