@@ -1,8 +1,5 @@
 
-![](https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhuig&hide=html)
+<img src="https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true" height = "250" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhuig&hide=html" height = "250" />
 
 
 <!--
