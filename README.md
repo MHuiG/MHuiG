@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![](https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhuig&hide=html)
+
 
 <!--
 **MHuiG/MHuiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
