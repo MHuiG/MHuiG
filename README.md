@@ -1,3 +1,9 @@
+```
+# curl + gpg pro tip: import mhuig's keys
+curl https://keybase.io/mhuig/pgp_keys.asc | gpg --import
+```
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true)
 
