@@ -28,7 +28,8 @@ Wish you a good-looking profile README!
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       10 mins         █████████████████▓░░░░░░░   70.88 % 
+JavaScript   4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.12 % 
 ```
 <!--END_SECTION:waka-->
 
