@@ -93,7 +93,7 @@
 ## JavaScript 
 
 - [HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说、Twikoo加强版、阅读量统计【尚未完成】]
-- [This-Repo-Has-1375-Stars](https://github.com/RealPeha/This-Repo-Has-1375-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1409-Stars](https://github.com/RealPeha/This-Repo-Has-1409-Stars) - Yes, it's true :orange_heart:
 - [hexo-theme-miracle](https://github.com/hifun-team/hexo-theme-miracle) - :tada: A simple single-column theme for Hexo.
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [ACG](https://github.com/Xecades/ACG) - ACG Collection
@@ -215,6 +215,7 @@
 
 ## Python 
 
+- [waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
 - [wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
