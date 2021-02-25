@@ -1,6 +1,6 @@
 import re
-readmePath="../README.md"
-barPath="../progressBar.md"
+readmePath="./README.md"
+barPath="./progressBar.md"
 with open(readmePath, "r",encoding="utf-8") as readme:
     content = readme.read()
 
