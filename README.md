@@ -45,3 +45,9 @@ JavaScript   4 mins          ███████▒░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+---
+
+<!--START_SECTION:progressBar-->
+<!--END_SECTION:progressBar-->
+
+---
