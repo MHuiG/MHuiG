@@ -48,6 +48,8 @@ JavaScript   4 mins          ███████▒░░░░░░░░░
 ---
 
 <!--START_SECTION:progressBar-->
+⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.19 %
+
 <!--END_SECTION:progressBar-->
 
 ---
