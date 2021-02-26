@@ -35,7 +35,7 @@
 - [CVE-2021-3156](https://github.com/stong/CVE-2021-3156) - PoC for CVE-2021-3156 (sudo heap overflow)
 - [acmjudger](https://github.com/ma6174/acmjudger) - ACM在线测评系统评测程序设计与实现
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4v / Scaled-YOLOv4 - Neural Networks for Object Detection (Windows and Linux version of Darknet )
+- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [torch7](https://github.com/torch/torch7) - http://torch.ch
 - [sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
 - [outguess](https://github.com/crorvick/outguess) - An unmaintained fork of the OutGuess steganographic tool.  Try https://github.com/resurrecting-open-source-projects/outguess for possibly a better option.
