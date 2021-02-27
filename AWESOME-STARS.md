@@ -23,7 +23,6 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
-  - [Stylus](#stylus)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -46,6 +45,7 @@
 
 ## C++ 
 
+- [nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
 - [DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
 - [PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
 - [2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408) - 💯✍备考2021年研究生-408
@@ -100,6 +100,7 @@
 - [ACG](https://github.com/Xecades/ACG) - ACG Collection
 - [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [purecolor](https://github.com/solstice23/purecolor) - 🎨 简单轻量的色板分享网站
+- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
 - [china-lantern](https://github.com/fz6m/china-lantern) - 新年新气象，网站中国新年灯笼挂件
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [flxg-2048](https://github.com/volltin/flxg-2048) - 
@@ -218,6 +219,7 @@
 
 ## Python 
 
+- [GotoX](https://github.com/SeaHOH/GotoX) - 本地自动代理，修改自 goagent。
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -359,10 +361,6 @@
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [berryconda](https://github.com/jjhelmus/berryconda) - Conda based Python distribution for the Raspberry Pi
-
-## Stylus 
-
-- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
 
 ## TeX 
 
