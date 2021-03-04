@@ -40,8 +40,7 @@ Wish you a good-looking profile README!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 57 mins   ███████████████████████▒░   92.91 % 
-Python       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript   6 hrs 34 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
