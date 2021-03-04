@@ -182,7 +182,7 @@
 - [awesome_transformer](https://github.com/jinfagang/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
 - [ECCV2020-Code](https://github.com/amusi/ECCV2020-Code) - ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
-- [CVPR2020-Code](https://github.com/amusi/CVPR2020-Code) - CVPR 2020 论文开源项目合集
+- [CVPR2021-Papers-with-Code](https://github.com/amusi/CVPR2021-Papers-with-Code) - CVPR 2020 论文开源项目合集
 - [pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
