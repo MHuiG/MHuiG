@@ -24,6 +24,7 @@
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Stylus](#stylus)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -95,6 +96,8 @@
 
 ## JavaScript 
 
+- [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
+- [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
@@ -105,7 +108,6 @@
 - [ACG](https://github.com/Xecades/ACG) - ACG Collection
 - [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [purecolor](https://github.com/solstice23/purecolor) - 🎨 简单轻量的色板分享网站
-- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
 - [china-lantern](https://github.com/fz6m/china-lantern) - 新年新气象，网站中国新年灯笼挂件
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [flxg-2048](https://github.com/volltin/flxg-2048) - 
@@ -371,6 +373,10 @@
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [berryconda](https://github.com/jjhelmus/berryconda) - Conda based Python distribution for the Raspberry Pi
+
+## Stylus 
+
+- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
 
 ## TeX 
 
