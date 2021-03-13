@@ -40,7 +40,7 @@ Wish you a good-looking profile README!
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 43 mins    █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
