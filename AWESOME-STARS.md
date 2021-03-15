@@ -48,6 +48,7 @@
 
 ## C++ 
 
+- [security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
 - [nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
 - [DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
 - [PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
@@ -188,7 +189,7 @@
 - [awesome_transformer](https://github.com/jinfagang/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
 - [ECCV2020-Code](https://github.com/amusi/ECCV2020-Code) - ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
-- [CVPR2021-Papers-with-Code](https://github.com/amusi/CVPR2021-Papers-with-Code) - CVPR 2020 论文开源项目合集
+- [CVPR2021-Papers-with-Code](https://github.com/amusi/CVPR2021-Papers-with-Code) - CVPR 2021 论文和开源项目合集
 - [pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
