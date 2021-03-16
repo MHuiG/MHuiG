@@ -97,6 +97,9 @@
 
 ## JavaScript 
 
+- [akismet-api](https://github.com/chrisfosterelli/akismet-api) - Nodejs bindings to the Akismet (https://akismet.com) spam detection service
+- [emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
+- [nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
@@ -239,7 +242,7 @@
 - [Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
 - [wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
 - [Code-Disturber](https://github.com/ouuan/Code-Disturber) - To generate "beautiful" codes.
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
 - [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
 - [Attention-PyTorch](https://github.com/EvilPsyCHo/Attention-PyTorch) - 注意力机制实践
