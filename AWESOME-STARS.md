@@ -32,376 +32,376 @@
 
 ## C 
 
-- [fping](https://github.com/schweikert/fping) - High performance ping tool
-- [CVE-2021-3156](https://github.com/blasty/CVE-2021-3156) - 
-- [CVE-2021-3156](https://github.com/stong/CVE-2021-3156) - PoC for CVE-2021-3156 (sudo heap overflow)
-- [acmjudger](https://github.com/ma6174/acmjudger) - ACM在线测评系统评测程序设计与实现
-- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
-- [torch7](https://github.com/torch/torch7) - http://torch.ch
-- [sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
-- [outguess](https://github.com/crorvick/outguess) - An unmaintained fork of the OutGuess steganographic tool.  Try https://github.com/resurrecting-open-source-projects/outguess for possibly a better option.
+- [schweikert/fping](https://github.com/schweikert/fping) - High performance ping tool
+- [blasty/CVE-2021-3156](https://github.com/blasty/CVE-2021-3156) - 
+- [stong/CVE-2021-3156](https://github.com/stong/CVE-2021-3156) - PoC for CVE-2021-3156 (sudo heap overflow)
+- [ma6174/acmjudger](https://github.com/ma6174/acmjudger) - ACM在线测评系统评测程序设计与实现
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
+- [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
+- [lyfeyaj/sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
+- [crorvick/outguess](https://github.com/crorvick/outguess) - An unmaintained fork of the OutGuess steganographic tool.  Try https://github.com/resurrecting-open-source-projects/outguess for possibly a better option.
 
 ## C# # 
 
-- [v2rayN](https://github.com/2dust/v2rayN) - 
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
+- [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 ## C++ 
 
-- [security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
-- [nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
-- [DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
-- [PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
-- [2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408) - 💯✍备考2021年研究生-408
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [cs](https://github.com/cskaoyan/cs) - 华中，华南，西北，西南高校计算机考研信息汇总
-- [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone
-- [ArduinoDebugger](https://github.com/Paulware/ArduinoDebugger) - Arduino Debugger/Simulator
-- [unlimited-landeng-for-win](https://github.com/JuncoJet/unlimited-landeng-for-win) - 无限流量灯，你懂的，我不解释
-- [PKUCourse](https://github.com/tongtzeho/PKUCourse) - 北大计算机课程大作业
+- [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
+- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+- [CharlesShang/DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
+- [liuchuo/PAT](https://github.com/liuchuo/PAT) - 🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
+- [hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408) - 💯✍备考2021年研究生-408
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [cskaoyan/cs](https://github.com/cskaoyan/cs) - 华中，华南，西北，西南高校计算机考研信息汇总
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+- [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone
+- [Paulware/ArduinoDebugger](https://github.com/Paulware/ArduinoDebugger) - Arduino Debugger/Simulator
+- [JuncoJet/unlimited-landeng-for-win](https://github.com/JuncoJet/unlimited-landeng-for-win) - 无限流量灯，你懂的，我不解释
+- [tongtzeho/PKUCourse](https://github.com/tongtzeho/PKUCourse) - 北大计算机课程大作业
 
 ## CSS 
 
-- [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
-- [2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
-- [robot](https://github.com/ownthink/robot) - 知识图谱问答机器人，聊天机器人，基于知识图谱、语义理解等的对话机器人。
-- [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
+- [ownthink/robot](https://github.com/ownthink/robot) - 知识图谱问答机器人，聊天机器人，基于知识图谱、语义理解等的对话机器人。
+- [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 
 ## CoffeeScript 
 
-- [badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
+- [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
 
 ## Go 
 
-- [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## HTML 
 
-- [supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-- [nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
-- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
-- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-- [echarts-stat](https://github.com/ecomfe/echarts-stat) - Statistics tool for  Apache ECharts (incubating)
+- [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+- [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
+- [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+- [ecomfe/echarts-stat](https://github.com/ecomfe/echarts-stat) - Statistics tool for  Apache ECharts (incubating)
 
 ## Java 
 
-- [libsvm](https://github.com/cjlin1/libsvm) - 
-- [hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
-- [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [THUCTC](https://github.com/thunlp/THUCTC) - An Efficient Chinese Text Classifier
-- [F5-steganography](https://github.com/matthewgao/F5-steganography) - F5 steganography
+- [cjlin1/libsvm](https://github.com/cjlin1/libsvm) - 
+- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [thunlp/THUCTC](https://github.com/thunlp/THUCTC) - An Efficient Chinese Text Classifier
+- [matthewgao/F5-steganography](https://github.com/matthewgao/F5-steganography) - F5 steganography
 
 ## JavaScript 
 
-- [akismet-api](https://github.com/chrisfosterelli/akismet-api) - Nodejs bindings to the Akismet (https://akismet.com) spam detection service
-- [emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
-- [nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
-- [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-- [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
-- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
-- [proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
-- [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
-- [git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
-- [ACG](https://github.com/Xecades/ACG) - ACG Collection
-- [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
-- [purecolor](https://github.com/solstice23/purecolor) - 🎨 简单轻量的色板分享网站
-- [china-lantern](https://github.com/fz6m/china-lantern) - 新年新气象，网站中国新年灯笼挂件
-- [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [flxg-2048](https://github.com/volltin/flxg-2048) - 
-- [terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [morse-encrypt](https://github.com/rover95/morse-encrypt) - 基于零宽字符和摩斯电码的隐藏文本加密 || Text hiding encryption、Morse code encryption、zero-width character encryption
-- [cloudflare-worker-blog](https://github.com/kasuganosoras/cloudflare-worker-blog) - Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器
-- [critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
-- [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
-- [ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from userAgent data. Supports browser & node.js environment.
-- [loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
-- [NBA-Visualization](https://github.com/LemonChiu/NBA-Visualization) - Visualization of NBA 2014-2015 with D3.js
-- [Valine-Admin](https://github.com/DesertsP/Valine-Admin) - A simple comment system based on LeanCloud and Valine. 👉
-- [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
-- [lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-- [yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
-- [unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
-- [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-- [jquery](https://github.com/360code/jquery) - 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。
-- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
-- [to-be-slack](https://github.com/ttop5/to-be-slack) - ！！！【接口已停，没有数据】今日热榜，摸鱼神器。支持全平台：Web、PC、Mobile 及 Chrome 插件。
-- [atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
-- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [note](https://github.com/Neutree/note) - just note , take down what ever i want
-- [jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs) - A node.js kernel for jupyter/ipython
-- [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-- [echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - Apache ECharts (incubating) wordcloud extension based on wordcloud2.js
-- [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
-- [jquery-mousewheel](https://github.com/jquery/jquery-mousewheel) - A jQuery plugin that adds cross-browser mouse wheel support.
-- [multi-picker](https://github.com/AppianZ/multi-picker) - A Custom Multi Picker(⁎⁍̴̛ᴗ⁍̴̛⁎) 『为移动端而生』的自定义多级联动选择器，可处理各种类型的多级联动，例如时间联动、城市联动、FAQ联动。
+- [chrisfosterelli/akismet-api](https://github.com/chrisfosterelli/akismet-api) - Nodejs bindings to the Akismet (https://akismet.com) spam detection service
+- [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
+- [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
+- [ipfs-shipyard/ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
+- [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
+- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
+- [Xecades/ACG](https://github.com/Xecades/ACG) - ACG Collection
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
+- [solstice23/purecolor](https://github.com/solstice23/purecolor) - 🎨 简单轻量的色板分享网站
+- [fz6m/china-lantern](https://github.com/fz6m/china-lantern) - 新年新气象，网站中国新年灯笼挂件
+- [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [volltin/flxg-2048](https://github.com/volltin/flxg-2048) - 
+- [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [rover95/morse-encrypt](https://github.com/rover95/morse-encrypt) - 基于零宽字符和摩斯电码的隐藏文本加密 || Text hiding encryption、Morse code encryption、zero-width character encryption
+- [kasuganosoras/cloudflare-worker-blog](https://github.com/kasuganosoras/cloudflare-worker-blog) - Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器
+- [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [sentsin/layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from userAgent data. Supports browser & node.js environment.
+- [filamentgroup/loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
+- [LemonChiu/NBA-Visualization](https://github.com/LemonChiu/NBA-Visualization) - Visualization of NBA 2014-2015 with D3.js
+- [DesertsP/Valine-Admin](https://github.com/DesertsP/Valine-Admin) - A simple comment system based on LeanCloud and Valine. 👉
+- [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
+- [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+- [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
+- [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
+- [360code/jquery](https://github.com/360code/jquery) - 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+- [ttop5/to-be-slack](https://github.com/ttop5/to-be-slack) - ！！！【接口已停，没有数据】今日热榜，摸鱼神器。支持全平台：Web、PC、Mobile 及 Chrome 插件。
+- [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
+- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [Neutree/note](https://github.com/Neutree/note) - just note , take down what ever i want
+- [notablemind/jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs) - A node.js kernel for jupyter/ipython
+- [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+- [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+- [travist/jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [ecomfe/echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - Apache ECharts (incubating) wordcloud extension based on wordcloud2.js
+- [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
+- [jquery/jquery-mousewheel](https://github.com/jquery/jquery-mousewheel) - A jQuery plugin that adds cross-browser mouse wheel support.
+- [AppianZ/multi-picker](https://github.com/AppianZ/multi-picker) - A Custom Multi Picker(⁎⁍̴̛ᴗ⁍̴̛⁎) 『为移动端而生』的自定义多级联动选择器，可处理各种类型的多级联动，例如时间联动、城市联动、FAQ联动。
 
 ## Jupyter Notebook 
 
-- [taming-transformers](https://github.com/CompVis/taming-transformers) - 
-- [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
-- [bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
-- [ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) - 搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。
-- [yolov5-v1-chinese-comment](https://github.com/XiaoJiNu/yolov5-v1-chinese-comment) - yolov5 v1版本中文注释
-- [CCF-BDCI-Automotive-Field-ASC-2018](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018) - CCF-BDCI 2018年汽车行业用户观点主题及情感识别挑战赛 第6名解决方案
-- [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
-- [EEGLearn-Pytorch](https://github.com/VDelv/EEGLearn-Pytorch) - 
-- [snn-seizure-prediction](https://github.com/matthewlw/snn-seizure-prediction) - Predict seizures from EEGs using two models of spiking neural networks
-- [attention-transfer](https://github.com/szagoruyko/attention-transfer) - Improving Convolutional Networks via Attention Transfer (ICLR 2017)
-- [pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
-- [practical-pytorch](https://github.com/spro/practical-pytorch) - Go to https://github.com/pytorch/tutorials - this repo is deprecated and no longer maintained
-- [code-of-learn-deep-learning-with-pytorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch) - This is code of book "Learn Deep Learning with PyTorch"
-- [pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
-- [cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
-- [python-scraping](https://github.com/REMitchell/python-scraping) - Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do
+- [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - 
+- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
+- [SophonPlus/ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) - 搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。
+- [XiaoJiNu/yolov5-v1-chinese-comment](https://github.com/XiaoJiNu/yolov5-v1-chinese-comment) - yolov5 v1版本中文注释
+- [nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018) - CCF-BDCI 2018年汽车行业用户观点主题及情感识别挑战赛 第6名解决方案
+- [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
+- [VDelv/EEGLearn-Pytorch](https://github.com/VDelv/EEGLearn-Pytorch) - 
+- [matthewlw/snn-seizure-prediction](https://github.com/matthewlw/snn-seizure-prediction) - Predict seizures from EEGs using two models of spiking neural networks
+- [szagoruyko/attention-transfer](https://github.com/szagoruyko/attention-transfer) - Improving Convolutional Networks via Attention Transfer (ICLR 2017)
+- [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
+- [spro/practical-pytorch](https://github.com/spro/practical-pytorch) - Go to https://github.com/pytorch/tutorials - this repo is deprecated and no longer maintained
+- [L1aoXingyu/code-of-learn-deep-learning-with-pytorch](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch) - This is code of book "Learn Deep Learning with PyTorch"
+- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+- [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
+- [REMitchell/python-scraping](https://github.com/REMitchell/python-scraping) - Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do
 
 ## Less 
 
-- [mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
+- [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - MDUI 是一个基于 Material Design 的前端框架。
 
 ## Lua 
 
-- [CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
-- [torch-gan](https://github.com/skaae/torch-gan) - 
+- [junyanz/CycleGAN](https://github.com/junyanz/CycleGAN) - Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.
+- [skaae/torch-gan](https://github.com/skaae/torch-gan) - 
 
 ## Makefile 
 
-- [python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
-- [How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
+- [MartinHeinz/python-project-blueprint](https://github.com/MartinHeinz/python-project-blueprint) - Blueprint/Boilerplate For Python Projects
+- [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer) - I'm here to tell you some amazing stuff which teacher would never tell you.
 
 ## Matlab 
 
-- [genetic-algorithm](https://github.com/Shuai-Xie/genetic-algorithm) - 遗传算法 - Matlab
+- [Shuai-Xie/genetic-algorithm](https://github.com/Shuai-Xie/genetic-algorithm) - 遗传算法 - Matlab
 
 ## Others 
 
-- [state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-- [1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
-- [awesome_transformer](https://github.com/jinfagang/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
-- [ECCV2020-Code](https://github.com/amusi/ECCV2020-Code) - ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
-- [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
-- [CVPR2021-Papers-with-Code](https://github.com/amusi/CVPR2021-Papers-with-Code) - CVPR 2021 论文和开源项目合集
-- [pywat](https://github.com/cosmologicon/pywat) - Python wats
-- [OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
-- [CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
-- [Chatbot_CN](https://github.com/charlesXu86/Chatbot_CN) - 基于金融-司法领域(兼有闲聊性质)的聊天机器人，其中的主要模块有信息抽取、NLU、NLG、知识图谱等，并且利用Django整合了前端展示,目前已经封装了nlp和kg的restful接口
-- [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) - A curated list of resources for Chinese NLP 中文自然语言处理相关资料
-- [Visual_SLAM_Related_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
-- [hardNLU](https://github.com/fighting41love/hardNLU) - NLU is hard!!!
-- [archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
-- [Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
-- [CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
-- [cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
-- [awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 南航计算机考研 专业课资料 和 信息汇总.
-- [nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
-- [See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT) - 北京邮电大学计算机考研信息汇总
-- [books](https://github.com/jcnlp/books) - 数学教程-高等数学、概率论与数理统计、线性代数
-- [Awesome-Stereo-Image-SR](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) - A Collection of Algorithms and Datasets for Stereo Image Super-Resolution
-- [resources](https://github.com/lightfield-analysis/resources) - A list of data sets and other resources for light fields for computer vision
-- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-- [jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm and GitHub
-- [python-tesseract](https://github.com/kespindler/python-tesseract) - 
-- [open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges
-- [CNN-paper2](https://github.com/DataXujing/CNN-paper2) - :art: :art: 深度学习 卷积神经网络教程 ：图像识别，目标检测，语义分割，实例分割，人脸识别，神经风格转换，GAN等:art::art:  https://dataxujing.github.io/CNN-paper2/
-- [free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
-- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
-- [Roadmap-of-DL-and-ML](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML) - Roadmap of DL and ML, some courses, study notes and paper summary
-- [awesome-ML-book-chinese](https://github.com/XuefengHuang/awesome-ML-book-chinese) - 
-- [SJTU-Courses](https://github.com/c-hj/SJTU-Courses) - 上海交通大学课程资料分享
-- [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
-- [beautifulsoup](https://github.com/DeronW/beautifulsoup) - Beautifulsoup docs in Chinese
-- [new-pac](https://github.com/Alvin9999/new-pac) - 科学上网/自由上网/翻墙/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建脚本/教程
+- [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+- [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
+- [jinfagang/awesome_transformer](https://github.com/jinfagang/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
+- [amusi/ECCV2020-Code](https://github.com/amusi/ECCV2020-Code) - ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
+- [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
+- [amusi/CVPR2021-Papers-with-Code](https://github.com/amusi/CVPR2021-Papers-with-Code) - CVPR 2021 论文和开源项目合集
+- [cosmologicon/pywat](https://github.com/cosmologicon/pywat) - Python wats
+- [thunlp/OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
+- [thunlp/CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
+- [charlesXu86/Chatbot_CN](https://github.com/charlesXu86/Chatbot_CN) - 基于金融-司法领域(兼有闲聊性质)的聊天机器人，其中的主要模块有信息抽取、NLU、NLG、知识图谱等，并且利用Django整合了前端展示,目前已经封装了nlp和kg的restful接口
+- [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) - A curated list of resources for Chinese NLP 中文自然语言处理相关资料
+- [wuxiaolang/Visual_SLAM_Related_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research) - 视觉(语义) SLAM 相关研究跟踪
+- [fighting41love/hardNLU](https://github.com/fighting41love/hardNLU) - NLU is hard!!!
+- [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
+- [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
+- [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
+- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
+- [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
+- [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 南航计算机考研 专业课资料 和 信息汇总.
+- [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
+- [ningzimu/See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT) - 北京邮电大学计算机考研信息汇总
+- [jcnlp/books](https://github.com/jcnlp/books) - 数学教程-高等数学、概率论与数理统计、线性代数
+- [YingqianWang/Awesome-Stereo-Image-SR](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) - A Collection of Algorithms and Datasets for Stereo Image Super-Resolution
+- [lightfield-analysis/resources](https://github.com/lightfield-analysis/resources) - A list of data sets and other resources for light fields for computer vision
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm and GitHub
+- [kespindler/python-tesseract](https://github.com/kespindler/python-tesseract) - 
+- [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges
+- [DataXujing/CNN-paper2](https://github.com/DataXujing/CNN-paper2) - :art: :art: 深度学习 卷积神经网络教程 ：图像识别，目标检测，语义分割，实例分割，人脸识别，神经风格转换，GAN等:art::art:  https://dataxujing.github.io/CNN-paper2/
+- [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+- [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+- [L1aoXingyu/Roadmap-of-DL-and-ML](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML) - Roadmap of DL and ML, some courses, study notes and paper summary
+- [XuefengHuang/awesome-ML-book-chinese](https://github.com/XuefengHuang/awesome-ML-book-chinese) - 
+- [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses) - 上海交通大学课程资料分享
+- [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
+- [DeronW/beautifulsoup](https://github.com/DeronW/beautifulsoup) - Beautifulsoup docs in Chinese
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 科学上网/自由上网/翻墙/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建脚本/教程
 
 ## PHP 
 
-- [Traum-Captcha](https://github.com/jiyeme/Traum-Captcha) - 化学验证码，历史验证码，矩阵验证码
+- [jiyeme/Traum-Captcha](https://github.com/jiyeme/Traum-Captcha) - 化学验证码，历史验证码，矩阵验证码
 
 ## Python 
 
-- [burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
-- [GotoX](https://github.com/SeaHOH/GotoX) - 本地自动代理，修改自 goagent。
-- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
-- [wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
-- [Code-Disturber](https://github.com/ouuan/Code-Disturber) - To generate "beautiful" codes.
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
-- [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
-- [py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
-- [Attention-PyTorch](https://github.com/EvilPsyCHo/Attention-PyTorch) - 注意力机制实践
-- [Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
-- [CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
-- [TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple-Object Tracking with Transformer
-- [CTracker](https://github.com/pjl1995/CTracker) - 
-- [FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
-- [Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
-- [deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) - Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow
-- [deep_sort](https://github.com/nwojke/deep_sort) - Simple Online Realtime Tracking with a Deep Association Metric
-- [Object-Detection-and-Tracking](https://github.com/yehengchen/Object-Detection-and-Tracking) - YOLO & RCNN Object Detection and Multi-Object Tracking
-- [centerNet-deep-sort](https://github.com/kimyoon-young/centerNet-deep-sort) - realtime multiple people tracking (centerNet based person detector + deep sort algorithm with pytorch)
-- [Yolov3_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) - Real-time multi-person tracker using YOLO v3 and deep sort
-- [MOTChallengeEvalKit](https://github.com/dendorferpatrick/MOTChallengeEvalKit) - 
-- [Cascade-RCNN-Tracking](https://github.com/KeyForce/Cascade-RCNN-Tracking) - Cascade-RCNN+DeepSort MOTDT Trackor++
-- [Homography-Based-MOTDT](https://github.com/youngbin-ro/Homography-Based-MOTDT) - MOTDT with Homography Matrix for Multi-Object Tracking
-- [deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) - MOT tracking using deepsort and yolov3 with pytorch
-- [yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
-- [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
-- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-- [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
-- [GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
-- [blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
-- [StegaStamp](https://github.com/tancik/StegaStamp) - Invisible Hyperlinks in Physical Photographs
-- [rule30](https://github.com/zmwangx/rule30) - Python implementation of Stephen Wolfram's elementary cellular automata (in particular, Rule 30)
-- [Emotional-Analysis-Bert-As-Service](https://github.com/DefuLi/Emotional-Analysis-Bert-As-Service) - 本项目的数据来自“互联网新闻情感分析”赛题。使用Bert-As-Service库中的中文Bert模型进行句向量的提取，加入全连接层后进行三分类。
-- [Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News) - “互联网新闻情感分析”赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代表正面情绪、1代表中性情绪、2代表负面情绪。
-- [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-- [exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
-- [MPNet](https://github.com/microsoft/MPNet) - MPNet: Masked and Permuted Pre-training for Language Understanding   https://arxiv.org/pdf/2004.09297.pdf
-- [bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
-- [cmrc2018](https://github.com/ymcui/cmrc2018) - A Span-Extraction Dataset for Chinese Machine Reading Comprehension  (CMRC 2018)
-- [bert_classification](https://github.com/pengming617/bert_classification) - 利用bert预训练的中文模型进行文本分类  数据集中文情感分析语料chnsenticorp
-- [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) - Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）
-- [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
-- [bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
-- [lambda-networks](https://github.com/lucidrains/lambda-networks) - Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute
-- [YOLOv4-pytorch](https://github.com/argusswift/YOLOv4-pytorch) - This is a pytorch repository of YOLOv4, attentive YOLOv4 and mobilenet YOLOv4 with PASCAL VOC and COCO
-- [nlp](https://github.com/duoergun0729/nlp) - 兜哥出品 &lt;一本开源的NLP入门书籍&gt;
-- [SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到400页左右，书稿每章对应的代码也会被整理出来。
-- [blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
-- [texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
-- [pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
-- [TSP_collection](https://github.com/kellenf/TSP_collection) - TSP算法全复现：遗传(GA)、粒子群(PSO)、模拟退火(SA)、禁忌搜索(ST)、蚁群算法(ACO)、自自组织神经网络(SOM)
-- [GraduationProject](https://github.com/DoerCyrus/GraduationProject) - 本科毕业设计，基于机器学习的商品评论分析系统
-- [Coding4Interviews](https://github.com/nlpjoe/Coding4Interviews) - Leetcode、剑指Offer——名企面试官精讲典型编程题
-- [weibo-analysis-and-visualization](https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization) - 使用python抓取微博数据并对微博文本分析和可视化，LDA（树图）、关系图、词云、时间趋势（折线图）、热度地图、词典情感分析（饼图和3D柱状图）、词向量神经网络情感分析、tfidf聚类、词向量聚类、关键词提取、文本相似度分析等
-- [Customer_Satisfaction_Analysis](https://github.com/CarryChang/Customer_Satisfaction_Analysis) - 基于在线民宿 UGC 数据的意见挖掘项目，包含数据挖掘和NLP 相关的处理，负责数据采集、主题抽取、情感分析等任务。目的是克服用户打分和评论不一致，实时对在线民宿的满意度评测，包含在线评论采集和情感可视化分析。搭建了百度地图POI查询入口，可以进行自动化的批量查询 POI 信息的功能；构建了基于在线民宿语料的 LDA 自动主题聚类模型，利用主题中心词能找出对应的主题属性字典；以用户打分作为标注，然后 litNlp 自带的字符级 TextCNN 进行情感分析，将情感分类概率分布作为情感趋势，最后通过 POI 热力图的方式对不同地域的民宿满意度进行展示。软件版本请见链接。
-- [pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
-- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
-- [Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
-- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Networks
-- [DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler) - 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API
-- [funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
-- [fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
-- [cpython](https://github.com/python/cpython) - The Python programming language
-- [jiphy](https://github.com/timothycrosley/jiphy) - Your client side done in a jiphy. Python to JavaScript 2-way converter.
-- [shanghai_transportation](https://github.com/qiangsiwei/shanghai_transportation) - 上海市交通流量时空模式挖掘
-- [phone_singnal](https://github.com/GIS90/phone_singnal) - 程序采用**Python**语言进行编写开发，用来生成手机信令数据的数据生成器。主要用到**define**，**log**，**generator**，**dbhandler**，**config**几个功能模块。
-- [bindsnet](https://github.com/BindsNET/bindsnet) - Simulation of spiking neural networks (SNNs) using PyTorch.
-- [Spiking-Neural-Network](https://github.com/Shikhargupta/Spiking-Neural-Network) - Pure python implementation of SNN
-- [Safety-Helmet-Wearing-Dataset](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset) - Safety helmet wearing detect dataset, with pretrained model
-- [YOLO-V3-Tensorflow](https://github.com/DataXujing/YOLO-V3-Tensorflow) - :construction_worker: :construction_worker::construction_worker: YOLO V3(Tensorflow 1.x) 安全帽 识别 | 提供数据集下载和与预训练模型
-- [SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
-- [Spindle](https://github.com/danzhewuju/Spindle) - 数据表型特征的挖掘
-- [mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
-- [candock](https://github.com/danzhewuju/candock) - 尝试多种不同的深度神经网络结构(如LSTM,RESNET,DFCNN等)对单通道EEG进行自动化睡眠阶段分期.我们相信这些代码同时可以用于其他生理信号(如ECG,EMG等)的分类.希望这将有助于您的研究.
-- [katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [EEGLearn](https://github.com/pbashivan/EEGLearn) - A set of functions for supervised feature learning/classification of mental states from EEG based on "EEG images" idea.
-- [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
-- [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
-- [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
-- [django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
-- [NeuralGenetic](https://github.com/ahmedfgad/NeuralGenetic) - Building and training artificial neural networks (regression or classification) using the genetic algorithm.
-- [dijkstra_heap](https://github.com/dick2737/dijkstra_heap) - dijkstra algorithm optimized with heap
-- [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
-- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
-- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。
-- [Tensorflow-Project-Template](https://github.com/L1aoXingyu/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
-- [pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner) - pytorch tutorial for beginners
-- [Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template) - A best practice for deep learning project template architecture.
-- [tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
-- [wgan-gp](https://github.com/caogang/wgan-gp) - A pytorch implementation of Paper "Improved Training of Wasserstein GANs"
-- [improved_wgan_training](https://github.com/igul222/improved_wgan_training) - Code for reproducing experiments in "Improved Training of Wasserstein GANs"
-- [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
-- [pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks) - A very simple generative adversarial network (GAN) in PyTorch
-- [speak_raspi_ip](https://github.com/ma6174/speak_raspi_ip) - 让树莓派说出自己的IP地址
-- [ML-Experiments](https://github.com/digfound/ML-Experiments) - 整理记录本人担任课程助教设计的四个机器学习实验，主要涉及简单的线性回归、朴素贝叶斯分类器、支持向量机、CNN做文本分类。内附实验指导书、讲解PPT、参考代码，欢迎各位码友讨论交流。
-- [WordSimilarity](https://github.com/BiLiangLtd/WordSimilarity) - 基于哈工大同义词词林扩展版的单词相似度计算方法
-- [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
-- [cnn-assignments](https://github.com/CatalinVoss/cnn-assignments) - Convolutional Neural Networks Assignments
-- [CookiesPool](https://github.com/Python3WebSpider/CookiesPool) - Cookies Pool
-- [text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn) - CNN-RNN中文文本分类，基于TensorFlow
-- [cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow
-- [text_classification](https://github.com/brightmart/text_classification) - all kinds of text classification models and more with deep learning
-- [CNN_ChineseTextBinaryClassify](https://github.com/x-hacker/CNN_ChineseTextBinaryClassify) - 
-- [Naive-Bayes-Classifier](https://github.com/lining0806/Naive-Bayes-Classifier) - 朴素贝叶斯文本分类器
-- [sinainfo](https://github.com/daleyzou/sinainfo) - 新浪网分类资讯爬虫
-- [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
-- [wechatSystem](https://github.com/tengxt/wechatSystem) - wechatSystem 1.0
-- [TextClassify](https://github.com/sinb/TextClassify) - 中文文本分类器,训练简单,多种模型可选.
-- [kerasTfPoj](https://github.com/BenShuai/kerasTfPoj) - keras+tensorflow实现的各种神经网络
-- [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
-- [binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-- [crc32](https://github.com/theonlypwner/crc32) - CRC32 tools: reverse, undo/rewind, and calculate hashes
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [uncompyle2](https://github.com/wibiti/uncompyle2) - Python 2.7 decompiler
-- [BlindWaterMark](https://github.com/chishaxie/BlindWaterMark) - 盲水印 by python
+- [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
+- [SeaHOH/GotoX](https://github.com/SeaHOH/GotoX) - 本地自动代理，修改自 goagent。
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [mai-lang-chai/Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
+- [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
+- [ouuan/Code-Disturber](https://github.com/ouuan/Code-Disturber) - To generate "beautiful" codes.
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
+- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+- [cheind/py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
+- [EvilPsyCHo/Attention-PyTorch](https://github.com/EvilPsyCHo/Attention-PyTorch) - 注意力机制实践
+- [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
+- [xingyizhou/CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
+- [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple-Object Tracking with Transformer
+- [pjl1995/CTracker](https://github.com/pjl1995/CTracker) - 
+- [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
+- [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
+- [Qidian213/deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) - Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow
+- [nwojke/deep_sort](https://github.com/nwojke/deep_sort) - Simple Online Realtime Tracking with a Deep Association Metric
+- [yehengchen/Object-Detection-and-Tracking](https://github.com/yehengchen/Object-Detection-and-Tracking) - YOLO & RCNN Object Detection and Multi-Object Tracking
+- [kimyoon-young/centerNet-deep-sort](https://github.com/kimyoon-young/centerNet-deep-sort) - realtime multiple people tracking (centerNet based person detector + deep sort algorithm with pytorch)
+- [mikel-brostrom/Yolov3_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) - Real-time multi-person tracker using YOLO v3 and deep sort
+- [dendorferpatrick/MOTChallengeEvalKit](https://github.com/dendorferpatrick/MOTChallengeEvalKit) - 
+- [KeyForce/Cascade-RCNN-Tracking](https://github.com/KeyForce/Cascade-RCNN-Tracking) - Cascade-RCNN+DeepSort MOTDT Trackor++
+- [youngbin-ro/Homography-Based-MOTDT](https://github.com/youngbin-ro/Homography-Based-MOTDT) - MOTDT with Homography Matrix for Multi-Object Tracking
+- [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) - MOT tracking using deepsort and yolov3 with pytorch
+- [theAIGuysCode/yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
+- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
+- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
+- [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
+- [tancik/StegaStamp](https://github.com/tancik/StegaStamp) - Invisible Hyperlinks in Physical Photographs
+- [zmwangx/rule30](https://github.com/zmwangx/rule30) - Python implementation of Stephen Wolfram's elementary cellular automata (in particular, Rule 30)
+- [DefuLi/Emotional-Analysis-Bert-As-Service](https://github.com/DefuLi/Emotional-Analysis-Bert-As-Service) - 本项目的数据来自“互联网新闻情感分析”赛题。使用Bert-As-Service库中的中文Bert模型进行句向量的提取，加入全连接层后进行三分类。
+- [DefuLi/Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News) - “互联网新闻情感分析”赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代表正面情绪、1代表中性情绪、2代表负面情绪。
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+- [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
+- [microsoft/MPNet](https://github.com/microsoft/MPNet) - MPNet: Masked and Permuted Pre-training for Language Understanding   https://arxiv.org/pdf/2004.09297.pdf
+- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
+- [ymcui/cmrc2018](https://github.com/ymcui/cmrc2018) - A Span-Extraction Dataset for Chinese Machine Reading Comprehension  (CMRC 2018)
+- [pengming617/bert_classification](https://github.com/pengming617/bert_classification) - 利用bert预训练的中文模型进行文本分类  数据集中文情感分析语料chnsenticorp
+- [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) - Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+- [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
+- [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
+- [lucidrains/lambda-networks](https://github.com/lucidrains/lambda-networks) - Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute
+- [argusswift/YOLOv4-pytorch](https://github.com/argusswift/YOLOv4-pytorch) - This is a pytorch repository of YOLOv4, attentive YOLOv4 and mobilenet YOLOv4 with PASCAL VOC and COCO
+- [duoergun0729/nlp](https://github.com/duoergun0729/nlp) - 兜哥出品 &lt;一本开源的NLP入门书籍&gt;
+- [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到400页左右，书稿每章对应的代码也会被整理出来。
+- [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
+- [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
+- [kellenf/TSP_collection](https://github.com/kellenf/TSP_collection) - TSP算法全复现：遗传(GA)、粒子群(PSO)、模拟退火(SA)、禁忌搜索(ST)、蚁群算法(ACO)、自自组织神经网络(SOM)
+- [DoerCyrus/GraduationProject](https://github.com/DoerCyrus/GraduationProject) - 本科毕业设计，基于机器学习的商品评论分析系统
+- [nlpjoe/Coding4Interviews](https://github.com/nlpjoe/Coding4Interviews) - Leetcode、剑指Offer——名企面试官精讲典型编程题
+- [HUANGZHIHAO1994/weibo-analysis-and-visualization](https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization) - 使用python抓取微博数据并对微博文本分析和可视化，LDA（树图）、关系图、词云、时间趋势（折线图）、热度地图、词典情感分析（饼图和3D柱状图）、词向量神经网络情感分析、tfidf聚类、词向量聚类、关键词提取、文本相似度分析等
+- [CarryChang/Customer_Satisfaction_Analysis](https://github.com/CarryChang/Customer_Satisfaction_Analysis) - 基于在线民宿 UGC 数据的意见挖掘项目，包含数据挖掘和NLP 相关的处理，负责数据采集、主题抽取、情感分析等任务。目的是克服用户打分和评论不一致，实时对在线民宿的满意度评测，包含在线评论采集和情感可视化分析。搭建了百度地图POI查询入口，可以进行自动化的批量查询 POI 信息的功能；构建了基于在线民宿语料的 LDA 自动主题聚类模型，利用主题中心词能找出对应的主题属性字典；以用户打分作为标注，然后 litNlp 自带的字符级 TextCNN 进行情感分析，将情感分类概率分布作为情感趋势，最后通过 POI 热力图的方式对不同地域的民宿满意度进行展示。软件版本请见链接。
+- [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
+- [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
+- [ztygalaxy/Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [zhanghang1989/ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Networks
+- [BlankerL/DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler) - 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API
+- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具
+- [fastnlp/fastNLP](https://github.com/fastnlp/fastNLP) - fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [timothycrosley/jiphy](https://github.com/timothycrosley/jiphy) - Your client side done in a jiphy. Python to JavaScript 2-way converter.
+- [qiangsiwei/shanghai_transportation](https://github.com/qiangsiwei/shanghai_transportation) - 上海市交通流量时空模式挖掘
+- [GIS90/phone_singnal](https://github.com/GIS90/phone_singnal) - 程序采用**Python**语言进行编写开发，用来生成手机信令数据的数据生成器。主要用到**define**，**log**，**generator**，**dbhandler**，**config**几个功能模块。
+- [BindsNET/bindsnet](https://github.com/BindsNET/bindsnet) - Simulation of spiking neural networks (SNNs) using PyTorch.
+- [Shikhargupta/Spiking-Neural-Network](https://github.com/Shikhargupta/Spiking-Neural-Network) - Pure python implementation of SNN
+- [njvisionpower/Safety-Helmet-Wearing-Dataset](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset) - Safety helmet wearing detect dataset, with pretrained model
+- [DataXujing/YOLO-V3-Tensorflow](https://github.com/DataXujing/YOLO-V3-Tensorflow) - :construction_worker: :construction_worker::construction_worker: YOLO V3(Tensorflow 1.x) 安全帽 识别 | 提供数据集下载和与预训练模型
+- [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
+- [danzhewuju/Spindle](https://github.com/danzhewuju/Spindle) - 数据表型特征的挖掘
+- [mne-tools/mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+- [danzhewuju/candock](https://github.com/danzhewuju/candock) - 尝试多种不同的深度神经网络结构(如LSTM,RESNET,DFCNN等)对单通道EEG进行自动化睡眠阶段分期.我们相信这些代码同时可以用于其他生理信号(如ECG,EMG等)的分类.希望这将有助于您的研究.
+- [LionSec/katoolin](https://github.com/LionSec/katoolin) - Automatically install all Kali linux tools
+- [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [pbashivan/EEGLearn](https://github.com/pbashivan/EEGLearn) - A set of functions for supervised feature learning/classification of mental states from EEG based on "EEG images" idea.
+- [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
+- [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
+- [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
+- [ahmedfgad/NeuralGenetic](https://github.com/ahmedfgad/NeuralGenetic) - Building and training artificial neural networks (regression or classification) using the genetic algorithm.
+- [dick2737/dijkstra_heap](https://github.com/dick2737/dijkstra_heap) - dijkstra algorithm optimized with heap
+- [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
+- [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。
+- [L1aoXingyu/Tensorflow-Project-Template](https://github.com/L1aoXingyu/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
+- [L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner) - pytorch tutorial for beginners
+- [L1aoXingyu/Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template) - A best practice for deep learning project template architecture.
+- [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
+- [caogang/wgan-gp](https://github.com/caogang/wgan-gp) - A pytorch implementation of Paper "Improved Training of Wasserstein GANs"
+- [igul222/improved_wgan_training](https://github.com/igul222/improved_wgan_training) - Code for reproducing experiments in "Improved Training of Wasserstein GANs"
+- [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
+- [devnag/pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks) - A very simple generative adversarial network (GAN) in PyTorch
+- [ma6174/speak_raspi_ip](https://github.com/ma6174/speak_raspi_ip) - 让树莓派说出自己的IP地址
+- [digfound/ML-Experiments](https://github.com/digfound/ML-Experiments) - 整理记录本人担任课程助教设计的四个机器学习实验，主要涉及简单的线性回归、朴素贝叶斯分类器、支持向量机、CNN做文本分类。内附实验指导书、讲解PPT、参考代码，欢迎各位码友讨论交流。
+- [BiLiangLtd/WordSimilarity](https://github.com/BiLiangLtd/WordSimilarity) - 基于哈工大同义词词林扩展版的单词相似度计算方法
+- [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+- [CatalinVoss/cnn-assignments](https://github.com/CatalinVoss/cnn-assignments) - Convolutional Neural Networks Assignments
+- [Python3WebSpider/CookiesPool](https://github.com/Python3WebSpider/CookiesPool) - Cookies Pool
+- [gaussic/text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn) - CNN-RNN中文文本分类，基于TensorFlow
+- [dennybritz/cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow
+- [brightmart/text_classification](https://github.com/brightmart/text_classification) - all kinds of text classification models and more with deep learning
+- [x-hacker/CNN_ChineseTextBinaryClassify](https://github.com/x-hacker/CNN_ChineseTextBinaryClassify) - 
+- [lining0806/Naive-Bayes-Classifier](https://github.com/lining0806/Naive-Bayes-Classifier) - 朴素贝叶斯文本分类器
+- [daleyzou/sinainfo](https://github.com/daleyzou/sinainfo) - 新浪网分类资讯爬虫
+- [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) - AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [tengxt/wechatSystem](https://github.com/tengxt/wechatSystem) - wechatSystem 1.0
+- [sinb/TextClassify](https://github.com/sinb/TextClassify) - 中文文本分类器,训练简单,多种模型可选.
+- [BenShuai/kerasTfPoj](https://github.com/BenShuai/kerasTfPoj) - keras+tensorflow实现的各种神经网络
+- [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+- [theonlypwner/crc32](https://github.com/theonlypwner/crc32) - CRC32 tools: reverse, undo/rewind, and calculate hashes
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [wibiti/uncompyle2](https://github.com/wibiti/uncompyle2) - Python 2.7 decompiler
+- [chishaxie/BlindWaterMark](https://github.com/chishaxie/BlindWaterMark) - 盲水印 by python
 
 ## Rust 
 
-- [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ## Scala 
 
-- [aas](https://github.com/sryza/aas) - Code to accompany Advanced Analytics with Spark from O'Reilly Media
-- [spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+- [sryza/aas](https://github.com/sryza/aas) - Code to accompany Advanced Analytics with Spark from O'Reilly Media
+- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 
 ## Shell 
 
-- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
-- [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-- [berryconda](https://github.com/jjhelmus/berryconda) - Conda based Python distribution for the Raspberry Pi
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
+- [jjhelmus/berryconda](https://github.com/jjhelmus/berryconda) - Conda based Python distribution for the Raspberry Pi
 
 ## Stylus 
 
-- [hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
+- [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
 
 ## TeX 
 
-- [DeepLearning-500-questions](https://github.com/L1aoXingyu/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+- [L1aoXingyu/DeepLearning-500-questions](https://github.com/L1aoXingyu/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
 
 ## TypeScript 
 
-- [buddy-github-events](https://github.com/lawvs/buddy-github-events) - View broadcast/received GItHub events from other people or organizations. 他の人や組織からの放送した/受信したGItHubアクティビティを見る。偷看大佬们的GitHub动态。
-- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
-- [vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
-- [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+- [lawvs/buddy-github-events](https://github.com/lawvs/buddy-github-events) - View broadcast/received GItHub events from other people or organizations. 他の人や組織からの放送した/受信したGItHubアクティビティを見る。偷看大佬们的GitHub动态。
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+- [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
+- [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
 ## Vue 
 
-- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 
 ## License
