@@ -211,6 +211,7 @@
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 南航计算机考研 专业课资料 和 信息汇总.
+- [ztygalaxy/Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
 - [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
 - [ningzimu/See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT) - 北京邮电大学计算机考研信息汇总
 - [jcnlp/books](https://github.com/jcnlp/books) - 数学教程-高等数学、概率论与数理统计、线性代数
@@ -292,7 +293,7 @@
 - [lucidrains/lambda-networks](https://github.com/lucidrains/lambda-networks) - Implementation of LambdaNetworks, a new approach to image recognition that reaches SOTA with less compute
 - [argusswift/YOLOv4-pytorch](https://github.com/argusswift/YOLOv4-pytorch) - This is a pytorch repository of YOLOv4, attentive YOLOv4 and mobilenet YOLOv4 with PASCAL VOC and COCO
 - [duoergun0729/nlp](https://github.com/duoergun0729/nlp) - 兜哥出品 &lt;一本开源的NLP入门书籍&gt;
-- [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到400页左右，书稿每章对应的代码也会被整理出来。
+- [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
@@ -303,7 +304,6 @@
 - [CarryChang/Customer_Satisfaction_Analysis](https://github.com/CarryChang/Customer_Satisfaction_Analysis) - 基于在线民宿 UGC 数据的意见挖掘项目，包含数据挖掘和NLP 相关的处理，负责数据采集、主题抽取、情感分析等任务。目的是克服用户打分和评论不一致，实时对在线民宿的满意度评测，包含在线评论采集和情感可视化分析。搭建了百度地图POI查询入口，可以进行自动化的批量查询 POI 信息的功能；构建了基于在线民宿语料的 LDA 自动主题聚类模型，利用主题中心词能找出对应的主题属性字典；以用户打分作为标注，然后 litNlp 自带的字符级 TextCNN 进行情感分析，将情感分类概率分布作为情感趋势，最后通过 POI 热力图的方式对不同地域的民宿满意度进行展示。软件版本请见链接。
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
-- [ztygalaxy/Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [zhanghang1989/ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Networks
 - [BlankerL/DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler) - 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API
