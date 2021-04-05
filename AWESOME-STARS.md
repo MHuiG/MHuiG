@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -30,8 +31,13 @@
   - [TypeScript](#typescript)
   - [Vue](#vue)
 
+## Assembly 
+
+- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+
 ## C 
 
+- [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [schweikert/fping](https://github.com/schweikert/fping) - High performance ping tool
 - [blasty/CVE-2021-3156](https://github.com/blasty/CVE-2021-3156) - 
 - [stong/CVE-2021-3156](https://github.com/stong/CVE-2021-3156) - PoC for CVE-2021-3156 (sudo heap overflow)
