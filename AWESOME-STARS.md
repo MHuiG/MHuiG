@@ -104,6 +104,7 @@
 
 ## JavaScript 
 
+- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
 - [chrisfosterelli/akismet-api](https://github.com/chrisfosterelli/akismet-api) - Nodejs bindings to the Akismet (https://akismet.com) spam detection service
 - [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
@@ -267,7 +268,7 @@
 - [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
 - [Qidian213/deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) - Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow
 - [nwojke/deep_sort](https://github.com/nwojke/deep_sort) - Simple Online Realtime Tracking with a Deep Association Metric
-- [yehengchen/Object-Detection-and-Tracking](https://github.com/yehengchen/Object-Detection-and-Tracking) - YOLO & RCNN Object Detection and Multi-Object Tracking
+- [yehengchen/Object-Detection-and-Tracking](https://github.com/yehengchen/Object-Detection-and-Tracking) - Object Detection and Multi-Object Tracking
 - [kimyoon-young/centerNet-deep-sort](https://github.com/kimyoon-young/centerNet-deep-sort) - realtime multiple people tracking (centerNet based person detector + deep sort algorithm with pytorch)
 - [mikel-brostrom/Yolov3_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) - Real-time multi-person tracker using YOLO v3 and deep sort
 - [dendorferpatrick/MOTChallengeEvalKit](https://github.com/dendorferpatrick/MOTChallengeEvalKit) - 
