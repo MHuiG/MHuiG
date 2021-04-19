@@ -407,6 +407,7 @@
 
 ## TypeScript 
 
+- [pixijs/pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [lawvs/buddy-github-events](https://github.com/lawvs/buddy-github-events) - View broadcast/received GItHub events from other people or organizations. 他の人や組織からの放送した/受信したGItHubアクティビティを見る。偷看大佬们的GitHub动态。
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
