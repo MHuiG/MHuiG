@@ -143,6 +143,7 @@
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 - [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
 - [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm and GitHub
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [360code/jquery](https://github.com/360code/jquery) - 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
@@ -166,6 +167,7 @@
 
 ## Jupyter Notebook 
 
+- [liuwei16/CSP](https://github.com/liuwei16/CSP) - High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection, CVPR, 2019
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - 
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
@@ -232,7 +234,6 @@
 - [YingqianWang/Awesome-Stereo-Image-SR](https://github.com/YingqianWang/Awesome-Stereo-Image-SR) - A Collection of Algorithms and Datasets for Stereo Image Super-Resolution
 - [lightfield-analysis/resources](https://github.com/lightfield-analysis/resources) - A list of data sets and other resources for light fields for computer vision
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm and GitHub
 - [kespindler/python-tesseract](https://github.com/kespindler/python-tesseract) - 
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges
 - [DataXujing/CNN-paper2](https://github.com/DataXujing/CNN-paper2) - :art: :art: 深度学习 卷积神经网络教程 ：图像识别，目标检测，语义分割，实例分割，人脸识别，神经风格转换，GAN等:art::art:  https://dataxujing.github.io/CNN-paper2/
@@ -263,7 +264,7 @@
 - [mai-lang-chai/Middleware-Vulnerability-detection](https://github.com/mai-lang-chai/Middleware-Vulnerability-detection) - CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15
 - [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) - WPA/WPA2 密码字典，用于 wifi 密码暴力破解
 - [ouuan/Code-Disturber](https://github.com/ouuan/Code-Disturber) - To generate "beautiful" codes.
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [cheind/py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
 - [EvilPsyCHo/Attention-PyTorch](https://github.com/EvilPsyCHo/Attention-PyTorch) - 注意力机制实践
