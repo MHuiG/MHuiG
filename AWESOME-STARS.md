@@ -96,6 +96,7 @@
 
 ## Java 
 
+- [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
 - [cjlin1/libsvm](https://github.com/cjlin1/libsvm) - 
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书  3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
@@ -257,7 +258,6 @@
 - [serend1p1ty/SeqNet](https://github.com/serend1p1ty/SeqNet) - Code for AAAI 2021 paper: Sequential End-to-end Network for Efficient Person Search
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [doyensec/regexploit](https://github.com/doyensec/regexploit) - Find regular expressions which are vulnerable to ReDoS (Regular Expression Denial of Service)
-- [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
 - [SeaHOH/GotoX](https://github.com/SeaHOH/GotoX) - 本地自动代理，修改自 goagent。
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [athul/waka-readme](https://github.com/athul/waka-readme) - Wakatime Weekly Metrics on your Profile Readme.
