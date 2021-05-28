@@ -251,7 +251,7 @@
 
 ## PHP 
 
-- [jiyeme/Traum-Captcha](https://github.com/jiyeme/Traum-Captcha) - 化学验证码，历史验证码，矩阵验证码
+- [jiyeme/Traum-Captcha](https://github.com/jiyeme/Traum-Captcha) - Wordpress化学验证码，历史验证码，矩阵验证码
 
 ## Python 
 
