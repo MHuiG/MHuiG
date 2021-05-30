@@ -47,7 +47,7 @@ No Activity tracked this Week
 ---
 
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.84 %
+⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 40.90 %
 
 <!--END_SECTION:progressBar-->
 
