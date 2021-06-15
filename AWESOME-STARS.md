@@ -317,7 +317,7 @@
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
 - [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
 - [kellenf/TSP_collection](https://github.com/kellenf/TSP_collection) - TSP算法全复现：遗传(GA)、粒子群(PSO)、模拟退火(SA)、禁忌搜索(ST)、蚁群算法(ACO)、自自组织神经网络(SOM)
-- [DoerCyrus/GraduationProject](https://github.com/DoerCyrus/GraduationProject) - 本科毕业设计，基于机器学习的商品评论分析系统
+- [HuyCui/GraduationProject](https://github.com/HuyCui/GraduationProject) - 本科毕业设计，基于机器学习的商品评论分析系统
 - [nlpjoe/Coding4Interviews](https://github.com/nlpjoe/Coding4Interviews) - Leetcode、剑指Offer——名企面试官精讲典型编程题
 - [HUANGZHIHAO1994/weibo-analysis-and-visualization](https://github.com/HUANGZHIHAO1994/weibo-analysis-and-visualization) - 使用python抓取微博数据并对微博文本分析和可视化，LDA（树图）、关系图、词云、时间趋势（折线图）、热度地图、词典情感分析（饼图和3D柱状图）、词向量神经网络情感分析、tfidf聚类、词向量聚类、关键词提取、文本相似度分析等
 - [CarryChang/Customer_Satisfaction_Analysis](https://github.com/CarryChang/Customer_Satisfaction_Analysis) - 基于在线民宿 UGC 数据的意见挖掘项目，包含数据挖掘和NLP 相关的处理，负责数据采集、主题抽取、情感分析等任务。目的是克服用户打分和评论不一致，实时对在线民宿的满意度评测，包含在线评论采集和情感可视化分析。搭建了百度地图POI查询入口，可以进行自动化的批量查询 POI 信息的功能；构建了基于在线民宿语料的 LDA 自动主题聚类模型，利用主题中心词能找出对应的主题属性字典；以用户打分作为标注，然后 litNlp 自带的字符级 TextCNN 进行情感分析，将情感分类概率分布作为情感趋势，最后通过 POI 热力图的方式对不同地域的民宿满意度进行展示。软件版本请见链接。
