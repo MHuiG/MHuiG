@@ -37,6 +37,7 @@
 
 ## C 
 
+- [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [schweikert/fping](https://github.com/schweikert/fping) - High performance ping tool
 - [blasty/CVE-2021-3156](https://github.com/blasty/CVE-2021-3156) - 
@@ -106,6 +107,7 @@
 
 ## JavaScript 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [js-cool/js.cool](https://github.com/js-cool/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起）
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
@@ -206,6 +208,8 @@
 
 ## Others 
 
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+- [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [NaturalSelectionLabs/RSS3](https://github.com/NaturalSelectionLabs/RSS3) - Derived from the best out of RSS, RSS3 is an open protocol designed for content and social networks in the Web 3.0 era.
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
