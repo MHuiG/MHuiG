@@ -29,6 +29,7 @@
   - [Stylus](#stylus)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vue](#vue)
 
 ## Assembly 
@@ -425,6 +426,10 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [meteorlxy/vssue](https://github.com/meteorlxy/vssue) - :mailbox: A Vue-powered Issue-based Comment Plugin
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+
+## V 
+
+- [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 
 ## Vue 
 
