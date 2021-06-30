@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [js-cool/js.cool](https://github.com/js-cool/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起）
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
