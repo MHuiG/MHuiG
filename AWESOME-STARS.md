@@ -6,6 +6,7 @@
 ## Contents
 
   - [Assembly](#assembly)
+  - [AutoIt](#autoit)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -35,6 +36,10 @@
 ## Assembly 
 
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
+
+## AutoIt 
+
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC isn't Windows 11  Release Ready
 
 ## C 
 
