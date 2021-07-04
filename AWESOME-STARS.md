@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
 - [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
 - [CharlesShang/DCNv2](https://github.com/CharlesShang/DCNv2) - Deformable Convolutional Networks v2 with Pytorch
