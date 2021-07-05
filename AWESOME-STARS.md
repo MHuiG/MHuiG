@@ -23,6 +23,7 @@
   - [Matlab](#matlab)
   - [Others](#others)
   - [PHP](#php)
+  - [Perl](#perl)
   - [Python](#python)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -117,6 +118,11 @@
 
 ## JavaScript 
 
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [MHG-LAB/submit-urls-from-sitemap-to-search-engine](https://github.com/MHG-LAB/submit-urls-from-sitemap-to-search-engine) - 提取 sitemap 中的链接，利用百度、必应、谷歌 API 自动推送至搜索引擎，提升网站收录速度。
+- [MHG-LAB/friends-gallery](https://github.com/MHG-LAB/friends-gallery) - friends-gallery
+- [lqqyt2423/google-translate-cn-api](https://github.com/lqqyt2423/google-translate-cn-api) - node.js 实现谷歌翻译 api，命令行工具 command line
+- [swalker-888/google-indexing-api-bulk](https://github.com/swalker-888/google-indexing-api-bulk) - Submit URLs in bulk to Google's Indexing API using a batch request
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
@@ -271,6 +277,10 @@
 ## PHP 
 
 - [jiyeme/Traum-Captcha](https://github.com/jiyeme/Traum-Captcha) - Wordpress化学验证码，历史验证码，矩阵验证码
+
+## Perl 
+
+- [samyk/slipstream](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
 
 ## Python 
 
