@@ -191,6 +191,7 @@
 
 ## Jupyter Notebook 
 
+- [Jezzamonn/fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms
 - [liuwei16/CSP](https://github.com/liuwei16/CSP) - High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection, CVPR, 2019
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
