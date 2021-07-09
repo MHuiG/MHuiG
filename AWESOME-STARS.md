@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [Xhofe/alist](https://github.com/Xhofe/alist) - 一个阿里云盘列表程序
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -118,6 +119,7 @@
 
 ## JavaScript 
 
+- [AJLoveChina/fingerprintDemo](https://github.com/AJLoveChina/fingerprintDemo) - :hand:浏览器指纹 audio指纹，webgl指纹，canvas指纹的生成算法
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [MHG-LAB/submit-urls-from-sitemap-to-search-engine](https://github.com/MHG-LAB/submit-urls-from-sitemap-to-search-engine) - 提取 sitemap 中的链接，利用百度、必应、谷歌 API 自动推送至搜索引擎，提升网站收录速度。
 - [MHG-LAB/friends-gallery](https://github.com/MHG-LAB/friends-gallery) - friends-gallery
