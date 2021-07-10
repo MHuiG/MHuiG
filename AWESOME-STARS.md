@@ -44,6 +44,7 @@
 
 ## C 
 
+- [LeeBrotherston/tls-fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting) - TLS Fingerprinting
 - [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [schweikert/fping](https://github.com/schweikert/fping) - High performance ping tool
@@ -446,6 +447,7 @@
 
 ## TypeScript 
 
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
