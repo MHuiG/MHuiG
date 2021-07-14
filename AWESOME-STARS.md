@@ -292,6 +292,7 @@
 
 ## Python 
 
+- [hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
 - [serend1p1ty/SeqNet](https://github.com/serend1p1ty/SeqNet) - Code for AAAI 2021 paper: Sequential End-to-end Network for Efficient Person Search
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [doyensec/regexploit](https://github.com/doyensec/regexploit) - Find regular expressions which are vulnerable to ReDoS (Regular Expression Denial of Service)
