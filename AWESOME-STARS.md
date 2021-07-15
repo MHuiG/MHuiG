@@ -235,6 +235,7 @@
 
 ## Others 
 
+- [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [NaturalSelectionLabs/RSS3](https://github.com/NaturalSelectionLabs/RSS3) - Derived from the best out of RSS, RSS3 is an open protocol designed for content and social networks in the Web 3.0 era.
@@ -434,6 +435,8 @@
 
 ## Shell 
 
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP configuration script | Cloudflare WARP 一键配置脚本
+- [YG-tsj/EUserv-warp](https://github.com/YG-tsj/EUserv-warp) - EUserv德鸡IPV6 VPS添加WARP双栈IPV6+IPV4、WARP单IPV4一键脚本，针对OpenVZ、LXC架构的IPV6 only VPS
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
