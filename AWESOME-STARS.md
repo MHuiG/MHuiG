@@ -260,7 +260,7 @@
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
-- [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 南航计算机考研 专业课资料 和 信息汇总.
+- [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 熊二：南航计算机考研 专业课资料 和 信息汇总.
 - [ztygalaxy/Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
 - [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
 - [ningzimu/See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT) - 北京邮电大学计算机考研信息汇总
