@@ -293,7 +293,7 @@
 
 ## Python 
 
-- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO. Exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported.
+- [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with ONNX, TensorRT, ncnn, and OpenVINO supported.
 - [hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
 - [serend1p1ty/SeqNet](https://github.com/serend1p1ty/SeqNet) - Code for AAAI 2021 paper: Sequential End-to-end Network for Efficient Person Search
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
