@@ -200,7 +200,7 @@
 - [Jezzamonn/fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms
 - [liuwei16/CSP](https://github.com/liuwei16/CSP) - High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection, CVPR, 2019
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
-- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - 
+- [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 - [SophonPlus/ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) - 搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。
 - [XiaoJiNu/yolov5-v1-chinese-comment](https://github.com/XiaoJiNu/yolov5-v1-chinese-comment) - yolov5 v1版本中文注释
 - [nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018) - CCF-BDCI 2018年汽车行业用户观点主题及情感识别挑战赛 第6名解决方案
@@ -293,6 +293,7 @@
 
 ## Python 
 
+- [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - AI拟声: 克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/
 - [hellysmile/fake-useragent](https://github.com/hellysmile/fake-useragent) - up to date simple useragent faker with real world database
