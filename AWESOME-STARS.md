@@ -445,7 +445,7 @@
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
-- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
+- [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [jjhelmus/berryconda](https://github.com/jjhelmus/berryconda) - Conda based Python distribution for the Raspberry Pi
