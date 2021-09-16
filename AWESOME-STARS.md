@@ -122,6 +122,8 @@
 
 ## JavaScript 
 
+- [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
+- [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack
 - [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
 - [lancedikson/bowser](https://github.com/lancedikson/bowser) - a browser detector
 - [bestiejs/platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
@@ -192,7 +194,7 @@
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [travist/jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-- [ecomfe/echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - Apache ECharts (incubating) wordcloud extension based on wordcloud2.js
+- [ecomfe/echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - Apache ECharts Word Cloud extension based on wordcloud2.js
 - [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [jquery/jquery-mousewheel](https://github.com/jquery/jquery-mousewheel) - A jQuery plugin that adds cross-browser mouse wheel support.
 - [AppianZ/multi-picker](https://github.com/AppianZ/multi-picker) - A Custom Multi Picker(⁎⁍̴̛ᴗ⁍̴̛⁎) 『为移动端而生』的自定义多级联动选择器，可处理各种类型的多级联动，例如时间联动、城市联动、FAQ联动。
@@ -296,6 +298,7 @@
 
 ## Python 
 
+- [ray-project/ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -462,6 +465,7 @@
 
 ## TypeScript 
 
+- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [PuruVJ/macos-preact](https://github.com/PuruVJ/macos-preact) - 
