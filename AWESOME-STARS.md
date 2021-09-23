@@ -395,7 +395,7 @@
 - [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
-- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly CMS
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [ahmedfgad/NeuralGenetic](https://github.com/ahmedfgad/NeuralGenetic) - Building and training artificial neural networks (regression or classification) using the genetic algorithm.
 - [dick2737/dijkstra_heap](https://github.com/dick2737/dijkstra_heap) - dijkstra algorithm optimized with heap
 - [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
