@@ -336,7 +336,7 @@
 - [youngbin-ro/Homography-Based-MOTDT](https://github.com/youngbin-ro/Homography-Based-MOTDT) - MOTDT with Homography Matrix for Multi-Object Tracking
 - [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) - MOT tracking using deepsort and yolov3 with pytorch
 - [theAIGuysCode/yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
-- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
+- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
