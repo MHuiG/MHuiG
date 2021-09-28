@@ -123,6 +123,7 @@
 
 ## JavaScript 
 
+- [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack
@@ -291,7 +292,7 @@
 
 ## PHP 
 
-- [luolongfei/next-freenom](https://github.com/luolongfei/next-freenom) - Freenom 域名自动续期。（由于我前仓库 https://github.com/luolongfei/freenom 不明原因被封，估计是与早前的 GitHub Action 事件有关。故将原项目迁移至此，接下来的开发与维护将在此仓库进行。Docker 仓库不受影响。）Freenom domain name renews automatically.
+- [luolongfei/next-freenom](https://github.com/luolongfei/next-freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.（由于我前仓库 https://github.com/luolongfei/freenom 不明原因被封，估计是与早前的 GitHub Action 事件有关。故将原项目迁移至此，接下来的开发与维护将在此仓库进行。Docker 仓库不受影响。）
 - [wisp-x/lsky-pro](https://github.com/wisp-x/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 - [jiyeme/Traum-Captcha](https://github.com/jiyeme/Traum-Captcha) - Wordpress化学验证码，历史验证码，矩阵验证码
 
