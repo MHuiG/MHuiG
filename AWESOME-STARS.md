@@ -25,6 +25,7 @@
   - [PHP](#php)
   - [Perl](#perl)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -438,6 +439,10 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [wibiti/uncompyle2](https://github.com/wibiti/uncompyle2) - Python 2.7 decompiler
 - [chishaxie/BlindWaterMark](https://github.com/chishaxie/BlindWaterMark) - 盲水印 by python
+
+## Ruby 
+
+- [AxeelAnder/no-follower](https://github.com/AxeelAnder/no-follower) - automatically block then unblock everyone followed you
 
 ## Rust 
 
