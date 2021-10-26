@@ -124,6 +124,8 @@
 
 ## JavaScript 
 
+- [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
+- [w2r/cfworker_WeCom](https://github.com/w2r/cfworker_WeCom) - cf worker反代企业微信接口
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -248,6 +250,7 @@
 
 ## Others 
 
+- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习论文精读
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) - 
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
