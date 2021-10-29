@@ -33,6 +33,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
+  - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## Assembly 
@@ -67,6 +68,7 @@
 
 ## C++ 
 
+- [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
 - [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [google/security-research-pocs](https://github.com/google/security-research-pocs) - Proof-of-concept codes created as part of security research done by Google Security Team.
@@ -254,7 +256,7 @@
 ## Others 
 
 - [gskinnerTeam/flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
-- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习论文精读
+- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) - 
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
@@ -316,6 +318,9 @@
 
 ## Python 
 
+- [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
+- [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP. Democratize AI for everyone.
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
 - [codemayq/chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -490,6 +495,7 @@
 
 ## TypeScript 
 
+- [xufei/type-chess](https://github.com/xufei/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [Saul-Mirone/milkdown-vscode](https://github.com/Saul-Mirone/milkdown-vscode) - 
 - [sinclairzx81/ts-8-bit](https://github.com/sinclairzx81/ts-8-bit) - Using TypeScript's Type System to do 8-bit Arithmetic
@@ -508,6 +514,10 @@
 ## V 
 
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
+
+## Vim script 
+
+- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 
 ## Vue 
 
