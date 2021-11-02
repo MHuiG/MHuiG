@@ -46,6 +46,7 @@
 
 ## C 
 
+- [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
 - [LeeBrotherston/tls-fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting) - TLS Fingerprinting
 - [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
@@ -128,6 +129,7 @@
 
 ## JavaScript 
 
+- [Merricx/qrazybox](https://github.com/Merricx/qrazybox) - QR Code Analysis and Recovery Toolkit
 - [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 - [USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups) - 中国科学技术大学第八届信息安全大赛的官方与非官方题解
 - [EtherDream/http-server-online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page.
@@ -323,6 +325,7 @@
 
 ## Python 
 
+- [ZwwWayne/K-Net](https://github.com/ZwwWayne/K-Net) - [NeurIPS2021] Code Release of K-Net: Towards Unified Image Segmentation
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
