@@ -329,6 +329,7 @@
 
 ## Python 
 
+- [TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL) - A PyTorch-based library for semi-supervised learning (NeurIPS'21)
 - [ModelTC/EOD](https://github.com/ModelTC/EOD) - Easy and Efficient Object Detector
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [lordfjw/OptimalGradCheckpointing](https://github.com/lordfjw/OptimalGradCheckpointing) - 
