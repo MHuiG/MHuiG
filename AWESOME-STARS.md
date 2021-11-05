@@ -101,6 +101,7 @@
 
 ## Go 
 
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
@@ -218,6 +219,7 @@
 
 ## Jupyter Notebook 
 
+- [visinf/fast-axiomatic-attribution](https://github.com/visinf/fast-axiomatic-attribution) - Fast Axiomatic Attribution for Neural Networks (NeurIPS*2021)
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
 - [zademn/EverythingCrypto](https://github.com/zademn/EverythingCrypto) - (Still exploring) My cryptography journey: A collection of notebooks covering different algorithms and concepts from cryptography
 - [hustvl/YOLOS](https://github.com/hustvl/YOLOS) - You Only Look at One Sequence (NeurIPS 2021)
@@ -268,7 +270,6 @@
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [gskinnerTeam/flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
-- [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) - 
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
@@ -329,6 +330,9 @@
 
 ## Python 
 
+- [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) - Official code for our NeurIPS 2021 Spotlight "Focal Self-attention for Local-Global Interactions in Vision Transformers"
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL) - A PyTorch-based library for semi-supervised learning (NeurIPS'21)
 - [ModelTC/EOD](https://github.com/ModelTC/EOD) - Easy and Efficient Object Detector
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
