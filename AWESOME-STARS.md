@@ -132,6 +132,7 @@
 
 ## JavaScript 
 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [matiasvlevi/Dann](https://github.com/matiasvlevi/Dann) - Deep Neural Network Library for JavaScript.
 - [Merricx/qrazybox](https://github.com/Merricx/qrazybox) - QR Code Analysis and Recovery Toolkit
 - [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
@@ -221,6 +222,7 @@
 
 ## Jupyter Notebook 
 
+- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [visinf/fast-axiomatic-attribution](https://github.com/visinf/fast-axiomatic-attribution) - Fast Axiomatic Attribution for Neural Networks (NeurIPS*2021)
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
 - [zademn/EverythingCrypto](https://github.com/zademn/EverythingCrypto) - (Still exploring) My cryptography journey: A collection of notebooks covering different algorithms and concepts from cryptography
@@ -267,6 +269,7 @@
 
 ## Others 
 
+- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
@@ -333,6 +336,8 @@
 
 ## Python 
 
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
 - [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [NeurIPS‘2021] "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [hendrycks/math](https://github.com/hendrycks/math) - The MATH Dataset (NeurIPS 2021)
 - [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) - Official code for our NeurIPS 2021 Spotlight "Focal Self-attention for Local-Global Interactions in Vision Transformers"
