@@ -271,6 +271,7 @@
 
 ## Others 
 
+- [404notf0und/AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - 安全场景、基于AI的安全算法和安全数据分析业界实践
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege
 - [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
@@ -323,7 +324,6 @@
 - [L1aoXingyu/Roadmap-of-DL-and-ML](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML) - Roadmap of DL and ML, some courses, study notes and paper summary
 - [XuefengHuang/awesome-ML-book-chinese](https://github.com/XuefengHuang/awesome-ML-book-chinese) - 
 - [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses) - 上海交通大学课程资料分享
-- [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [DeronW/beautifulsoup](https://github.com/DeronW/beautifulsoup) - Beautifulsoup docs in Chinese
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 科学上网/自由上网/翻墙/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程
 
@@ -464,7 +464,7 @@
 - [dick2737/dijkstra_heap](https://github.com/dick2737/dijkstra_heap) - dijkstra algorithm optimized with heap
 - [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球300所大学用于教学。
 - [L1aoXingyu/Tensorflow-Project-Template](https://github.com/L1aoXingyu/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
 - [L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner) - pytorch tutorial for beginners
 - [L1aoXingyu/Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template) - A best practice for deep learning project template architecture.
@@ -473,6 +473,7 @@
 - [igul222/improved_wgan_training](https://github.com/igul222/improved_wgan_training) - Code for reproducing experiments in "Improved Training of Wasserstein GANs"
 - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 - [devnag/pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks) - A very simple generative adversarial network (GAN) in PyTorch
+- [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [ma6174/speak_raspi_ip](https://github.com/ma6174/speak_raspi_ip) - 让树莓派说出自己的IP地址
 - [digfound/ML-Experiments](https://github.com/digfound/ML-Experiments) - 整理记录本人担任课程助教设计的四个机器学习实验，主要涉及简单的线性回归、朴素贝叶斯分类器、支持向量机、CNN做文本分类。内附实验指导书、讲解PPT、参考代码，欢迎各位码友讨论交流。
 - [BiLiangLtd/WordSimilarity](https://github.com/BiLiangLtd/WordSimilarity) - 基于哈工大同义词词林扩展版的单词相似度计算方法
@@ -537,7 +538,7 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
-- [xufei/type-chess](https://github.com/xufei/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
+- [chinese-chess-everywhere/type-chess](https://github.com/chinese-chess-everywhere/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [Saul-Mirone/milkdown-vscode](https://github.com/Saul-Mirone/milkdown-vscode) - 
 - [sinclairzx81/ts-8-bit](https://github.com/sinclairzx81/ts-8-bit) - Using TypeScript's Type System to do 8-bit Arithmetic
