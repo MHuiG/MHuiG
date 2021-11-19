@@ -271,6 +271,7 @@
 
 ## Others 
 
+- [microsoft/SimMIM](https://github.com/microsoft/SimMIM) - This is an official implementation for "SimMIM: A Simple Framework for Masked Image Modeling".
 - [404notf0und/AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - 安全场景、基于AI的安全算法和安全数据分析业界实践
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 - [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege
@@ -339,6 +340,7 @@
 
 ## Python 
 
+- [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners
 - [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable PyTorch reproduction of AlphaFold 2
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
@@ -464,7 +466,7 @@
 - [dick2737/dijkstra_heap](https://github.com/dick2737/dijkstra_heap) - dijkstra algorithm optimized with heap
 - [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
 - [L1aoXingyu/Tensorflow-Project-Template](https://github.com/L1aoXingyu/Tensorflow-Project-Template) - A best practice for tensorflow project template architecture.
 - [L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner) - pytorch tutorial for beginners
 - [L1aoXingyu/Deep-Learning-Project-Template](https://github.com/L1aoXingyu/Deep-Learning-Project-Template) - A best practice for deep learning project template architecture.
