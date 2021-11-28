@@ -120,6 +120,7 @@
 
 ## HTML 
 
+- [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
@@ -138,6 +139,7 @@
 
 ## JavaScript 
 
+- [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
@@ -333,7 +335,7 @@
 - [XuefengHuang/awesome-ML-book-chinese](https://github.com/XuefengHuang/awesome-ML-book-chinese) - 
 - [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses) - 上海交通大学课程资料分享
 - [DeronW/beautifulsoup](https://github.com/DeronW/beautifulsoup) - Beautifulsoup docs in Chinese
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 科学上网/自由上网/翻墙/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙/科学上网/自由上网/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程
 
 ## PHP 
 
@@ -347,6 +349,7 @@
 
 ## Python 
 
+- [RoganDawes/P4wnP1](https://github.com/RoganDawes/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
 - [kmyk/mersenne-twister-predictor](https://github.com/kmyk/mersenne-twister-predictor) - Predict MT19937 PRNG, from preceding 624 generated numbers. There is a specialization for the "random" of Python standard library.
 - [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -408,7 +411,7 @@
 - [dendorferpatrick/MOTChallengeEvalKit](https://github.com/dendorferpatrick/MOTChallengeEvalKit) - 
 - [KeyForce/Cascade-RCNN-Tracking](https://github.com/KeyForce/Cascade-RCNN-Tracking) - Cascade-RCNN+DeepSort MOTDT Trackor++
 - [youngbin-ro/Homography-Based-MOTDT](https://github.com/youngbin-ro/Homography-Based-MOTDT) - MOTDT with Homography Matrix for Multi-Object Tracking
-- [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) - MOT tracking using deepsort and yolov3 with pytorch
+- [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) - MOT using deepsort and yolov3 with pytorch
 - [theAIGuysCode/yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
@@ -548,6 +551,7 @@
 
 ## TypeScript 
 
+- [neargle/crx-scouter](https://github.com/neargle/crx-scouter) - 🕵️‍♂️  🔎  🕸️ 一款可以探测Chrome插件的前端工具~ → blog.neargle.com/crx-scouter/
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
