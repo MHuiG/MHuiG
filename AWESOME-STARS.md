@@ -60,7 +60,6 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) - YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )
 - [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
-- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [lyfeyaj/sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix) - Fix Sublime Text 3 Input method problem (CJK words) under Ubuntu
 - [crorvick/outguess](https://github.com/crorvick/outguess) - An unmaintained fork of the OutGuess steganographic tool.  Try https://github.com/resurrecting-open-source-projects/outguess for possibly a better option.
 
@@ -125,6 +124,7 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
+- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [ecomfe/echarts-stat](https://github.com/ecomfe/echarts-stat) - Statistics tool for  Apache ECharts (incubating)
 
 ## Java 
@@ -139,6 +139,7 @@
 
 ## JavaScript 
 
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
