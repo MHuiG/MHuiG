@@ -143,6 +143,7 @@
 
 ## JavaScript 
 
+- [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
 - [sablejs/sablejs](https://github.com/sablejs/sablejs) - 🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
@@ -287,6 +288,7 @@
 
 ## Others 
 
+- [PKUFlyingPig/pku-cs-self-learning](https://github.com/PKUFlyingPig/pku-cs-self-learning) - 计算机自学指南
 - [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis
 - [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - :notebook:Java后端知识图谱
 - [404notf0und/AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - 安全场景、基于AI的安全算法和安全数据分析业界实践
@@ -356,6 +358,7 @@
 
 ## Python 
 
+- [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
 - [xinntao/BasicSR](https://github.com/xinntao/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet.
 - [RoganDawes/P4wnP1](https://github.com/RoganDawes/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.
 - [kmyk/mersenne-twister-predictor](https://github.com/kmyk/mersenne-twister-predictor) - Predict MT19937 PRNG, from preceding 624 generated numbers. There is a specialization for the "random" of Python standard library.
