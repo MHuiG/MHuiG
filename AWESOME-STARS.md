@@ -131,7 +131,6 @@
 
 ## Java 
 
-- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
 - [cjlin1/libsvm](https://github.com/cjlin1/libsvm) - 
