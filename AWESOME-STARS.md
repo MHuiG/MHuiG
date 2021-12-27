@@ -113,7 +113,7 @@
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
-- [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️Another file list program that supports multiple storage, powered by Gin and React.
+- [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -431,7 +431,7 @@
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
 - [tancik/StegaStamp](https://github.com/tancik/StegaStamp) - Invisible Hyperlinks in Physical Photographs
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in the Transformer model (BERT, GPT-2, Albert, XLNet, RoBERTa, CTRL, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in Transformer models (BERT, GPT-2, RoBERTa, etc.)
 - [zmwangx/rule30](https://github.com/zmwangx/rule30) - Python implementation of Stephen Wolfram's elementary cellular automata (in particular, Rule 30)
 - [DefuLi/Emotional-Analysis-Bert-As-Service](https://github.com/DefuLi/Emotional-Analysis-Bert-As-Service) - 本项目的数据来自“互联网新闻情感分析”赛题。使用Bert-As-Service库中的中文Bert模型进行句向量的提取，加入全连接层后进行三分类。
 - [DefuLi/Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News) - “互联网新闻情感分析”赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代表正面情绪、1代表中性情绪、2代表负面情绪。
@@ -488,7 +488,7 @@
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [ahmedfgad/NeuralGenetic](https://github.com/ahmedfgad/NeuralGenetic) - Building and training artificial neural networks (regression or classification) using the genetic algorithm.
-- [dick2737/dijkstra_heap](https://github.com/dick2737/dijkstra_heap) - dijkstra algorithm optimized with heap
+- [ciqu2737/dijkstra_heap](https://github.com/ciqu2737/dijkstra_heap) - dijkstra algorithm optimized with heap
 - [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
