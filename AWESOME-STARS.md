@@ -432,7 +432,7 @@
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
 - [tancik/StegaStamp](https://github.com/tancik/StegaStamp) - Invisible Hyperlinks in Physical Photographs
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - Tool for visualizing attention in Transformer models (BERT, GPT-2, BART, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models (BERT, GPT-2, BART, etc.)
 - [zmwangx/rule30](https://github.com/zmwangx/rule30) - Python implementation of Stephen Wolfram's elementary cellular automata (in particular, Rule 30)
 - [DefuLi/Emotional-Analysis-Bert-As-Service](https://github.com/DefuLi/Emotional-Analysis-Bert-As-Service) - 本项目的数据来自“互联网新闻情感分析”赛题。使用Bert-As-Service库中的中文Bert模型进行句向量的提取，加入全连接层后进行三分类。
 - [DefuLi/Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News) - “互联网新闻情感分析”赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代表正面情绪、1代表中性情绪、2代表负面情绪。
@@ -597,6 +597,7 @@
 
 ## Vue 
 
+- [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
