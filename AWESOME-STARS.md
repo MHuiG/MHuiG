@@ -177,7 +177,7 @@
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [js-cool/js.cool](https://github.com/js-cool/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起）
+- [js-cool/js.cool](https://github.com/js-cool/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
 - [pbondoer/bubble-bg](https://github.com/pbondoer/bubble-bg) - A small JavaScript animated bubble background. Pure JS!
@@ -432,7 +432,7 @@
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
 - [tancik/StegaStamp](https://github.com/tancik/StegaStamp) - Invisible Hyperlinks in Physical Photographs
-- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize and Explore Transformer Language Models (BERT, GPT2, BART, etc.)
+- [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models (BERT, GPT2, BART, etc.)
 - [zmwangx/rule30](https://github.com/zmwangx/rule30) - Python implementation of Stephen Wolfram's elementary cellular automata (in particular, Rule 30)
 - [DefuLi/Emotional-Analysis-Bert-As-Service](https://github.com/DefuLi/Emotional-Analysis-Bert-As-Service) - 本项目的数据来自“互联网新闻情感分析”赛题。使用Bert-As-Service库中的中文Bert模型进行句向量的提取，加入全连接层后进行三分类。
 - [DefuLi/Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News) - “互联网新闻情感分析”赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代表正面情绪、1代表中性情绪、2代表负面情绪。
