@@ -12,6 +12,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [EJS](#ejs)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -100,6 +101,10 @@
 
 - [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
 
+## EJS 
+
+- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
+
 ## Go 
 
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -139,7 +144,6 @@
 ## JavaScript 
 
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
-- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
 - [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
 - [sablejs/sablejs](https://github.com/sablejs/sablejs) - 🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
