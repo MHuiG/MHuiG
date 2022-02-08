@@ -519,7 +519,7 @@
 - [daleyzou/sinainfo](https://github.com/daleyzou/sinainfo) - 新浪网分类资讯爬虫
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [tengxt/wechatSystem](https://github.com/tengxt/wechatSystem) - wechatSystem 1.0
 - [sinb/TextClassify](https://github.com/sinb/TextClassify) - 中文文本分类器,训练简单,多种模型可选.
 - [BenShuai/kerasTfPoj](https://github.com/BenShuai/kerasTfPoj) - keras+tensorflow实现的各种神经网络
