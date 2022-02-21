@@ -293,6 +293,7 @@
 
 ## Others 
 
+- [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
