@@ -68,7 +68,7 @@
 ## C# # 
 
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - https://1.2345345.xyz/ads.html
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 ## C++ 
@@ -366,8 +366,8 @@
 
 ## Python 
 
-- [MHG-LAB/RSSBOX](https://github.com/MHG-LAB/RSSBOX) - MHuiGのRSS订阅
 - [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
+- [MHG-LAB/RSSBOX](https://github.com/MHG-LAB/RSSBOX) - MHuiGのRSS订阅
 - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) - 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
