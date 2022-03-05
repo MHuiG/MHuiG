@@ -49,7 +49,7 @@ No activity tracked
 ---
 
 <!--START_SECTION:progressBar-->
-⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.40 %
+⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.47 %
 
 <!--END_SECTION:progressBar-->
 
