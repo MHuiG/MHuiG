@@ -48,6 +48,7 @@
 
 ## C 
 
+- [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [scandum/quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
@@ -296,6 +297,7 @@
 
 ## Others 
 
+- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT) - 进入 Web3 第一步，从拥有第一张 NFT 开始。
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
