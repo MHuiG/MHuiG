@@ -152,7 +152,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
 - [sablejs/sablejs](https://github.com/sablejs/sablejs) - 🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
@@ -372,6 +372,7 @@
 
 ## Python 
 
+- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
 - [MHG-LAB/RSSBOX](https://github.com/MHG-LAB/RSSBOX) - MHuiGのRSS订阅
 - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) - 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
@@ -449,7 +450,7 @@
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [sagemath/sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
-- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark （图片盲水印，提取水印无须原图！）
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [tancik/StegaStamp](https://github.com/tancik/StegaStamp) - Invisible Hyperlinks in Physical Photographs
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in Transformer Models (BERT, GPT2, BART, etc.)
 - [zmwangx/rule30](https://github.com/zmwangx/rule30) - Python implementation of Stephen Wolfram's elementary cellular automata (in particular, Rule 30)
