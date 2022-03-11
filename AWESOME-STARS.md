@@ -48,6 +48,7 @@
 
 ## C 
 
+- [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe)
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
@@ -509,7 +510,7 @@
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [ahmedfgad/NeuralGenetic](https://github.com/ahmedfgad/NeuralGenetic) - Building and training artificial neural networks (regression or classification) using the genetic algorithm.
-- [ciqu2737/dijkstra_heap](https://github.com/ciqu2737/dijkstra_heap) - dijkstra algorithm optimized with heap
+- [ciqu0518/dijkstra_heap](https://github.com/ciqu0518/dijkstra_heap) - dijkstra algorithm optimized with heap
 - [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
