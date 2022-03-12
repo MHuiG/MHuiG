@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [AutoIt](#autoit)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -45,6 +46,10 @@
 ## AutoIt 
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
+
+## Blade 
+
+- [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 
 ## C 
 
@@ -364,7 +369,6 @@
 ## PHP 
 
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
-- [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 - [msojocs/Traum-Captcha](https://github.com/msojocs/Traum-Captcha) - Wordpress化学验证码，历史验证码，矩阵验证码
 
 ## Perl 
