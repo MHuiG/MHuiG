@@ -378,7 +378,7 @@
 
 ## Python 
 
-- [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 50 Methods
+- [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 51 Methods
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
 - [MHG-LAB/RSSBOX](https://github.com/MHG-LAB/RSSBOX) - MHuiGのRSS订阅
