@@ -54,3 +54,7 @@ No activity tracked
 <!--END_SECTION:progressBar-->
 
 ---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/MHuiG/MHuiG/output/github-contribution-grid-snake.svg)
+
+---
