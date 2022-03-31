@@ -182,7 +182,7 @@
 - [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack
-- [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
+- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [lancedikson/bowser](https://github.com/lancedikson/bowser) - a browser detector
 - [bestiejs/platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
 - [AJLoveChina/fingerprintDemo](https://github.com/AJLoveChina/fingerprintDemo) - :hand:浏览器指纹 audio指纹，webgl指纹，canvas指纹的生成算法
