@@ -36,15 +36,9 @@ Wish you a good-looking profile README!
 
 [My Awesome Stars](AWESOME-STARS.md)
 
-#### :bar_chart: Weekly Development Breakdown
+#### 🍻 Give Me A Cup Of Beer?
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[Donate](Donate.md)
 
 ---
 
