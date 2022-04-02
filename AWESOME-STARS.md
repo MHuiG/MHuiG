@@ -379,6 +379,7 @@
 
 ## Python 
 
+- [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 51 Methods
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
@@ -598,6 +599,7 @@
 
 ## TypeScript 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables.
