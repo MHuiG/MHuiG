@@ -135,7 +135,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-- [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) - 吴恩达老师的机器学习课程个人笔记
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [ecomfe/echarts-stat](https://github.com/ecomfe/echarts-stat) - Statistics tool for  Apache ECharts (incubating)
@@ -225,6 +224,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [layui/layui](https://github.com/layui/layui) - 一套开源的 Web UI 解决方案。采用自身传统的模块化规范，并遵循原生 HTML/CSS/JS 的开发方式，极易上手，拿来即用。非常适合网页界面的快速开发。
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
+- [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [filamentgroup/loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
 - [LemonChiu/NBA-Visualization](https://github.com/LemonChiu/NBA-Visualization) - Visualization of NBA 2014-2015 with D3.js
 - [DesertsP/Valine-Admin](https://github.com/DesertsP/Valine-Admin) - A simple comment system based on LeanCloud and Valine. 👉
