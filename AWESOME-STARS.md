@@ -304,6 +304,7 @@
 
 ## Others 
 
+- [comwrg/FUCK-GFW](https://github.com/comwrg/FUCK-GFW) - 记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW
 - [RimoChan/smoke_of_deceit](https://github.com/RimoChan/smoke_of_deceit) - 把代码藏起来！
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT) - 进入 Web3 第一步，从拥有第一张 NFT 开始。
