@@ -151,6 +151,7 @@
 
 ## JavaScript 
 
+- [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
