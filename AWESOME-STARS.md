@@ -102,6 +102,7 @@
 ## CSS 
 
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+- [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [ownthink/robot](https://github.com/ownthink/robot) - 知识图谱问答机器人，聊天机器人，基于知识图谱、语义理解等的对话机器人。
@@ -131,7 +132,6 @@
 
 ## HTML 
 
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area.
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -379,7 +379,6 @@
 
 ## PHP 
 
-- [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [msojocs/Traum-Captcha](https://github.com/msojocs/Traum-Captcha) - Wordpress化学验证码，历史验证码，矩阵验证码
 
 ## Perl 
@@ -617,6 +616,7 @@
 
 ## TypeScript 
 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
