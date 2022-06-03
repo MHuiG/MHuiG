@@ -155,6 +155,8 @@
 
 ## JavaScript 
 
+- [Richienb/node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin) - Polyfill Node.js core modules in Webpack.
+- [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
 - [itorr/homo](https://github.com/itorr/homo) - 💩「恶臭数字论证器」数字恶臭化工具
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
