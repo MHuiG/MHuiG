@@ -419,7 +419,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL) - A PyTorch-based library for semi-supervised learning (NeurIPS'21)
-- [ModelTC/EOD](https://github.com/ModelTC/EOD) - Easy and Efficient Object Detector
+- [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [lordfjw/OptimalGradCheckpointing](https://github.com/lordfjw/OptimalGradCheckpointing) - 
 - [ZwwWayne/K-Net](https://github.com/ZwwWayne/K-Net) - [NeurIPS2021] Code Release of K-Net: Towards Unified Image Segmentation
