@@ -32,7 +32,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Solidity](#solidity)
-- [Stylus](#stylus)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -45,7 +44,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready.
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 
 ## Blade 
 
@@ -53,6 +52,8 @@
 
 ## C 
 
+- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) - A root exploit for CVE-2022-0847 (Dirty Pipe)
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
@@ -75,6 +76,8 @@
 
 ## C# # 
 
+- [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+- [microsoft/CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - CodeXGLUE
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -113,6 +116,7 @@
 
 ## Go 
 
+- [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -123,7 +127,7 @@
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -131,6 +135,9 @@
 
 ## HTML 
 
+- [uuid6/uuid6-ietf-draft](https://github.com/uuid6/uuid6-ietf-draft) - Next Generation UUID Formats
+- [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
+- [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera) - 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337
 - [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area.
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -155,6 +162,11 @@
 
 ## JavaScript 
 
+- [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode) - VSCode extension for code suggestion
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [Richienb/node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin) - Polyfill Node.js core modules in Webpack.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
@@ -166,7 +178,6 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
 - [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
@@ -223,6 +234,7 @@
 - [fz6m/china-lantern](https://github.com/fz6m/china-lantern) - 新年新气象，网站中国新年灯笼挂件
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [volltin/flxg-2048](https://github.com/volltin/flxg-2048) - 
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [rover95/morse-encrypt](https://github.com/rover95/morse-encrypt) - 基于零宽字符和摩斯电码的隐藏文本加密 || Text hiding encryption、Morse code encryption、zero-width character encryption
@@ -230,7 +242,7 @@
 - [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [layui/layui](https://github.com/layui/layui) - 一套开源的 Web UI 组件库。采用自身极简的模块化规范，并遵循原生 HTML/CSS/JS 的开发模式，极易上手，开箱即用。非常适合网页界面的快速构建。
+- [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [filamentgroup/loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
@@ -312,6 +324,12 @@
 
 ## Others 
 
+- [kallydev/privacy](https://github.com/kallydev/privacy) - 个人隐私泄露检测工具。
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+- [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
+- [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
+- [jinfagang/yolov8](https://github.com/jinfagang/yolov8) - 
+- [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [skypackjs/skypack-cdn](https://github.com/skypackjs/skypack-cdn) - An issue tracker for the CDN
@@ -342,7 +360,7 @@
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [jinfagang/awesome_transformer](https://github.com/jinfagang/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
-- [amusi/ECCV2020-Code](https://github.com/amusi/ECCV2020-Code) - ECCV 2020 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
+- [amusi/ECCV2022-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) - ECCV 2022 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
 - [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
 - [cosmologicon/pywat](https://github.com/cosmologicon/pywat) - Python wats
@@ -385,10 +403,21 @@
 
 ## Perl 
 
-- [samyk/slipstream](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
+- [samyk/slipstream](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by anyone on the victim's network visiting a website
 
 ## Python 
 
+- [ashawkey/torch-ngp](https://github.com/ashawkey/torch-ngp) - A pytorch CUDA extension implementation of instant-ngp (sdf and nerf), with a GUI.
+- [WhaleFell/SMSBoom](https://github.com/WhaleFell/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！
+- [leamoon/StochasticNet](https://github.com/leamoon/StochasticNet) - Nerual Network of Stochastic Computing for MNIST Recognition
+- [jinfagang/yolov7](https://github.com/jinfagang/yolov7) - 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
+- [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications.
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
+- [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
+- [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
+- [sh3d0ww01f/WaterDragon](https://github.com/sh3d0ww01f/WaterDragon) - WaterDragon:用GithubAction实现代理功能。红队,cve,代理池,隐匿,攻防,对抗，hackone,src,proxy,CVE-2020,CVE-2021,CVE-2022
+- [UCSC-VLAA/RobustCNN](https://github.com/UCSC-VLAA/RobustCNN) - This repository includes the official implementation our paper "Can CNNs Be More Robust Than Transformers?"
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [InvoluteHell/HelloWorldContest](https://github.com/InvoluteHell/HelloWorldContest) - Print "Hello World" without HELLOWORLD | 不使用 HELLOWORLD 来输出 "Hello World" 的比赛！
 - [MHG-LAB/Cloudflare-WAF-to-AbuseIPDB](https://github.com/MHG-LAB/Cloudflare-WAF-to-AbuseIPDB) - 从 Cloudflare Graphql API 获取被 Cloudflare WAF 拦截(阻止/托管质询)的 IP 并提交给 AbuseIPDB
@@ -399,7 +428,6 @@
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - ICON: Implicit Clothed humans Obtained from Normals (CVPR 2022)
 - [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
 - [MHG-LAB/RSSBOX](https://github.com/MHG-LAB/RSSBOX) - MHuiGのRSS订阅
-- [jinfagang/yolov7](https://github.com/jinfagang/yolov7) - 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
 - [XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup
@@ -481,7 +509,6 @@
 - [DefuLi/Emotional-Analysis-Bert-As-Service](https://github.com/DefuLi/Emotional-Analysis-Bert-As-Service) - 本项目的数据来自“互联网新闻情感分析”赛题。使用Bert-As-Service库中的中文Bert模型进行句向量的提取，加入全连接层后进行三分类。
 - [DefuLi/Emotional-Analysis-of-Internet-News](https://github.com/DefuLi/Emotional-Analysis-of-Internet-News) - “互联网新闻情感分析”赛题，是CCF大数据与计算智能大赛赛题之一。对新闻情绪进行分类，0代表正面情绪、1代表中性情绪、2代表负面情绪。
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-201
@@ -592,6 +619,8 @@
 
 ## Shell 
 
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
@@ -607,10 +636,6 @@
 
 - [Anish-Agnihotri/flashside](https://github.com/Anish-Agnihotri/flashside) - Long-tail MEV contracts to claim Otherside land NFTs
 
-## Stylus 
-
-- [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - Elegant and powerful theme for Hexo.
-
 ## TeX 
 
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本
@@ -618,6 +643,9 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
