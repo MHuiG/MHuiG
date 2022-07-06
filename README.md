@@ -22,13 +22,13 @@ Wish you a good-looking profile README!
 
 ## Hey, MHuiG here! :wave:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mhuig&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 🌱 I’m currently learning everything 🤣
 
 🤣 Fun fact: Big Fan of the 🤣 emoji
 
-🤗 Catch me at [What did MHG watch today?](https://t.me/+NtiT16IvYbA4MDA1)
+🤗 Catch me at [What did MHuiG watch today?](https://t.me/+NtiT16IvYbA4MDA1)
 
 #### :key: GPG Key Fingerprint
 
