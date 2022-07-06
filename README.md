@@ -28,7 +28,7 @@ Wish you a good-looking profile README!
 
 🤣 Fun fact: Big Fan of the 🤣 emoji
 
-🤔 Catch me at [What did MHG watch today?🤔](https://t.me/+NtiT16IvYbA4MDA1)! 
+🤗 Catch me at [What did MHG watch today?](https://t.me/+NtiT16IvYbA4MDA1)
 
 #### :key: GPG Key Fingerprint
 
