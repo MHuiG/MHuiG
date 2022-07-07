@@ -37,6 +37,7 @@
 - [V](#v)
 - [Vim script](#vim-script)
 - [Vue](#vue)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -151,7 +152,8 @@
 
 ## Java 
 
-- [veo/wsMemShell](https://github.com/veo/wsMemShell) - websocket cmd内存马 wscmd.jsp websocket 代理内存马 wsproxy.jsp
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+- [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马，一种新型内存马技术
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
@@ -163,6 +165,8 @@
 
 ## JavaScript 
 
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 搜索引擎跳转工具 Google & Baidu Switcher.user.js.
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -408,6 +412,8 @@
 
 ## Python 
 
+- [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) - :zap: A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is
+- [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [ashawkey/torch-ngp](https://github.com/ashawkey/torch-ngp) - A pytorch CUDA extension implementation of instant-ngp (sdf and nerf), with a GUI.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [leamoon/StochasticNet](https://github.com/leamoon/StochasticNet) - Nerual Network of Stochastic Computing for MNIST Recognition
@@ -688,6 +694,10 @@
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+## Zig 
+
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
