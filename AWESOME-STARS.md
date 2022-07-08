@@ -329,6 +329,7 @@
 
 ## Others 
 
+- [jinfagang/yolovn](https://github.com/jinfagang/yolovn) - Just another yolo variant.
 - [kallydev/privacy](https://github.com/kallydev/privacy) - 个人隐私泄露检测工具。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
