@@ -290,6 +290,7 @@
 - [liuwei16/CSP](https://github.com/liuwei16/CSP) - High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection, CVPR, 2019
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [orpatashnik/StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
+- [EvilPsyCHo/Attention-PyTorch](https://github.com/EvilPsyCHo/Attention-PyTorch) - 注意力机制实践
 - [SophonPlus/ChineseNlpCorpus](https://github.com/SophonPlus/ChineseNlpCorpus) - 搜集、整理、发布 中文 自然语言处理 语料/数据集，与 有志之士 共同 促进 中文 自然语言处理 的 发展。
 - [XiaoJiNu/yolov5-v1-chinese-comment](https://github.com/XiaoJiNu/yolov5-v1-chinese-comment) - yolov5 v1版本中文注释
 - [nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018) - CCF-BDCI 2018年汽车行业用户观点主题及情感识别挑战赛 第6名解决方案
@@ -354,6 +355,7 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [gskinnerTeam/flutter_vignettes](https://github.com/gskinnerTeam/flutter_vignettes) - A collection of fun Flutter experiments, created by gskinner, in partnership with Google.
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
@@ -462,7 +464,6 @@
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
 - [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multi-modal applications on the cloud
 - [codemayq/chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -488,7 +489,6 @@
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [cheind/py-motmetrics](https://github.com/cheind/py-motmetrics) - :bar_chart: Benchmark multiple object trackers (MOT) in Python
-- [EvilPsyCHo/Attention-PyTorch](https://github.com/EvilPsyCHo/Attention-PyTorch) - 注意力机制实践
 - [fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
 - [xingyizhou/CenterTrack](https://github.com/xingyizhou/CenterTrack) - Simultaneous object detection and tracking using center points.
 - [PeizeSun/TransTrack](https://github.com/PeizeSun/TransTrack) - Multiple Object Tracking with Transformer
