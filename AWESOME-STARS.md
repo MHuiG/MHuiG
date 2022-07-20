@@ -53,6 +53,7 @@
 
 ## C 
 
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
@@ -138,6 +139,7 @@
 
 ## HTML 
 
+- [rollingpwn/rolling-pwn](https://github.com/rollingpwn/rolling-pwn) - rolling pwn
 - [fontforge/designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) - A book about how to design new typefaces with FontForge
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [uuid6/uuid6-ietf-draft](https://github.com/uuid6/uuid6-ietf-draft) - Next Generation UUID Formats
@@ -336,6 +338,7 @@
 
 ## Others 
 
+- [mstxq17/FrpProPlugin](https://github.com/mstxq17/FrpProPlugin) - frp0.33修改版,过流量检测,免杀,支持加载远程配置文件可用于cs直接使用的插件
 - [kallydev/privacy](https://github.com/kallydev/privacy) - 个人隐私泄露检测工具。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
@@ -418,6 +421,9 @@
 
 ## Python 
 
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
+- [chip-red-pill/MicrocodeDecryptor](https://github.com/chip-red-pill/MicrocodeDecryptor) - 
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) - :zap: A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is
