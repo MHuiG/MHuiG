@@ -121,6 +121,7 @@
 
 ## Go 
 
+- [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -343,6 +344,9 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+- [fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp) - 警惕 一种针对红队的新型溯源手段!
 - [lichuang/storage-paper-reading-cn](https://github.com/lichuang/storage-paper-reading-cn) - 存储（分布式、存储引擎等）领域相关的论文阅读笔记
 - [mstxq17/FrpProPlugin](https://github.com/mstxq17/FrpProPlugin) - frp0.33修改版,过流量检测,免杀,支持加载远程配置文件可用于cs直接使用的插件
 - [kallydev/privacy](https://github.com/kallydev/privacy) - 个人隐私泄露检测工具。
@@ -427,6 +431,9 @@
 
 ## Python 
 
+- [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
+- [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
+- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
 - [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO
@@ -629,6 +636,7 @@
 
 ## Rust 
 
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧, novel OS structure, and state management. It strives to close the semantic gap between compiler and hardware to m
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
