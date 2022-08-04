@@ -54,7 +54,7 @@
 
 ## C 
 
-- [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918) - 
+- [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918) - CVE-2022-34918 netfilter nf_tables 本地提权 POC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -353,7 +353,6 @@
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp) - 警惕 一种针对红队的新型溯源手段!
 - [lichuang/storage-paper-reading-cn](https://github.com/lichuang/storage-paper-reading-cn) - 存储（分布式、存储引擎等）领域相关的论文阅读笔记
-- [mstxq17/FrpProPlugin](https://github.com/mstxq17/FrpProPlugin) - frp0.33修改版,过流量检测,免杀,支持加载远程配置文件可用于cs直接使用的插件
 - [kallydev/privacy](https://github.com/kallydev/privacy) - 个人隐私泄露检测工具。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
