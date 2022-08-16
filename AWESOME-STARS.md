@@ -176,6 +176,7 @@
 
 ## JavaScript 
 
+- [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt) - Trying to reproduce CVE-2021-43908
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [Dyalog/TryAPL](https://github.com/Dyalog/TryAPL) - This is the source code for TryAPL.org
@@ -348,7 +349,7 @@
 
 ## Others 
 
-- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - 
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
@@ -464,7 +465,7 @@
 - [UCSC-VLAA/RobustCNN](https://github.com/UCSC-VLAA/RobustCNN) - This repository includes the official implementation our paper "Can CNNs Be More Robust Than Transformers?"
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [InvoluteHell/HelloWorldContest](https://github.com/InvoluteHell/HelloWorldContest) - Print "Hello World" without HELLOWORLD | 不使用 HELLOWORLD 来输出 "Hello World" 的比赛！
-- [MHG-LAB/Cloudflare-WAF-to-AbuseIPDB](https://github.com/MHG-LAB/Cloudflare-WAF-to-AbuseIPDB) - 从 Cloudflare Graphql API 获取被 Cloudflare WAF 拦截(阻止/托管质询)的 IP 并提交给 AbuseIPDB
+- [MHG-LAB/Cloudflare-WAF-to-AbuseIPDB](https://github.com/MHG-LAB/Cloudflare-WAF-to-AbuseIPDB) - 从 Cloudflare Graphql API 获取被 Cloudflare WAF 拦截(阻止/托管质询)的 IP 并提交给 AbuseIPDB Red Team 免杀防火墙
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
@@ -499,7 +500,7 @@
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
 - [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI
 - [codemayq/chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）
