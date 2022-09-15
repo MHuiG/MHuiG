@@ -211,7 +211,7 @@
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
 - [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
-- [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
+- [web3/web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [matiasvlevi/Dann](https://github.com/matiasvlevi/Dann) - Deep Neural Network Library for JavaScript.
