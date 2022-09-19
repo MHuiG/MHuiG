@@ -167,7 +167,7 @@
 ## Java 
 
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
-- [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket Webshell，一种新型WebShell技术
+- [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
@@ -294,7 +294,7 @@
 - [notablemind/jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs) - A node.js kernel for jupyter/ipython
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [travist/jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [travist/jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [ecomfe/echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - Apache ECharts Word Cloud extension based on wordcloud2.js
 - [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [jquery/jquery-mousewheel](https://github.com/jquery/jquery-mousewheel) - A jQuery plugin that adds cross-browser mouse wheel support.
