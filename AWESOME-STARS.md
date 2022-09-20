@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [chuigda/TypeAssert](https://github.com/chuigda/TypeAssert) - Minimal JavaScript type assertions
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt) - Trying to reproduce CVE-2021-43908
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
@@ -302,6 +303,8 @@
 
 ## Jupyter Notebook 
 
+- [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
+- [tensorflow/lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications.
@@ -498,7 +501,7 @@
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [NeurIPS‘2021] "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [hendrycks/math](https://github.com/hendrycks/math) - The MATH Dataset (NeurIPS 2021)
-- [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) - Official code for our NeurIPS 2021 Spotlight "Focal Self-attention for Local-Global Interactions in Vision Transformers"
+- [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) - [NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL) - A PyTorch-based library for semi-supervised learning (NeurIPS'21)
