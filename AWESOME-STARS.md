@@ -306,6 +306,7 @@
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+- [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [meituan/YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications.
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
@@ -456,7 +457,6 @@
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [lorey/mlscraper](https://github.com/lorey/mlscraper) - 🤖 Scrape data from HTML websites automatically by just providing examples
-- [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 - [aaugustin/websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
