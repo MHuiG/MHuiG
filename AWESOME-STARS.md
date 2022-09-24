@@ -166,6 +166,7 @@
 
 ## Java 
 
+- [unicode-org/cldr](https://github.com/unicode-org/cldr) - The new home of the Unicode Common Locale Data Repository
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
@@ -705,6 +706,7 @@
 
 ## TypeScript 
 
+- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [QiShaoXuan/wavejs](https://github.com/QiShaoXuan/wavejs) - A flexible, configurable animation of wave - 一个灵活的可配置的波浪动画
