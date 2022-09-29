@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [wanttobeno/AntiDebuggers](https://github.com/wanttobeno/AntiDebuggers) - 30种方法检测程序是否被调试
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
@@ -228,7 +229,7 @@
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
-- [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack
+- [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 - [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [lancedikson/bowser](https://github.com/lancedikson/bowser) - a browser detector
 - [bestiejs/platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
