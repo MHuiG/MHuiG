@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [chuigda/TypeAssert](https://github.com/chuigda/TypeAssert) - Minimal JavaScript type assertions
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt) - Trying to reproduce CVE-2021-43908
@@ -450,6 +451,7 @@
 
 ## Python 
 
+- [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) - QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
 - [kifuan/helang](https://github.com/kifuan/helang) - 何语言，次世代赛博编程语言。
