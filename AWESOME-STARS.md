@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -121,6 +122,11 @@
 ## CoffeeScript 
 
 - [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
+
+## EJS 
+
+- [FZSZXXB/ReXpress](https://github.com/FZSZXXB/ReXpress) - The Blog System Powers FZSZ Sanyechong Online Magazine Website.
+- [FZSZXXB/rateboard2](https://github.com/FZSZXXB/rateboard2) - Rateboard 2.0
 
 ## Go 
 
@@ -308,7 +314,6 @@
 
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
@@ -453,8 +458,10 @@
 
 ## Python 
 
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) - 
 - [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) - QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
 - [kifuan/helang](https://github.com/kifuan/helang) - 何语言，次世代赛博编程语言。
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
