@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [wanttobeno/AntiDebuggers](https://github.com/wanttobeno/AntiDebuggers) - 30种方法检测程序是否被调试
@@ -517,7 +518,6 @@
 - [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [VITA-Group/TransGAN](https://github.com/VITA-Group/TransGAN) - [NeurIPS‘2021] "TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up", Yifan Jiang, Shiyu Chang, Zhangyang Wang
 - [hendrycks/math](https://github.com/hendrycks/math) - The MATH Dataset (NeurIPS 2021)
 - [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) - [NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"
@@ -535,7 +535,7 @@
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [codemayq/chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）
+- [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022）
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
