@@ -459,6 +459,7 @@
 
 ## Python 
 
+- [zjc062/mind-vis](https://github.com/zjc062/mind-vis) - Code base for MinD-Vis
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
 - [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [alibaba/TinyNeuralNetwork](https://github.com/alibaba/TinyNeuralNetwork) - TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.
