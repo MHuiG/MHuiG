@@ -91,7 +91,6 @@
 
 ## C++ 
 
-- [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [wanttobeno/AntiDebuggers](https://github.com/wanttobeno/AntiDebuggers) - 30种方法检测程序是否被调试
@@ -175,7 +174,7 @@
 
 ## Java 
 
-- [unicode-org/cldr](https://github.com/unicode-org/cldr) - The new home of the Unicode Common Locale Data Repository
+- [unicode-org/cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
@@ -461,6 +460,7 @@
 
 - [zjc062/mind-vis](https://github.com/zjc062/mind-vis) - Code base for MinD-Vis
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
+- [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [ShivamShrirao/diffusers](https://github.com/ShivamShrirao/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [alibaba/TinyNeuralNetwork](https://github.com/alibaba/TinyNeuralNetwork) - TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
