@@ -64,7 +64,7 @@
 - [pjreddie/darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 - [spencertipping/jit-tutorial](https://github.com/spencertipping/jit-tutorial) - How to write a very simple JIT compiler
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
-- [scandum/quadsort](https://github.com/scandum/quadsort) - Quadsort is a stable adaptive merge sort which is faster than quicksort.
+- [scandum/quadsort](https://github.com/scandum/quadsort) - Quadsort is a branchless stable adaptive merge sort.
 - [karottc/linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [LeeBrotherston/tls-fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting) - TLS Fingerprinting
@@ -528,7 +528,7 @@
 - [TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL) - A PyTorch-based library for semi-supervised learning (NeurIPS'21)
 - [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
-- [lordfjw/OptimalGradCheckpointing](https://github.com/lordfjw/OptimalGradCheckpointing) - 
+- [jianweif/OptimalGradCheckpointing](https://github.com/jianweif/OptimalGradCheckpointing) - 
 - [ZwwWayne/K-Net](https://github.com/ZwwWayne/K-Net) - [NeurIPS2021] Code Release of K-Net: Towards Unified Image Segmentation
 - [Chakazul/Lenia](https://github.com/Chakazul/Lenia) - Lenia - Mathematical Life Forms
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
