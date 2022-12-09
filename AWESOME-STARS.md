@@ -113,7 +113,6 @@
 
 ## CSS 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [ownthink/robot](https://github.com/ownthink/robot) - 知识图谱问答机器人，聊天机器人，基于知识图谱、语义理解等的对话机器人。
@@ -189,13 +188,14 @@
 
 ## JavaScript 
 
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt) - Trying to reproduce CVE-2021-43908
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [Dyalog/TryAPL](https://github.com/Dyalog/TryAPL) - This is the source code for TryAPL.org
-- [Nthily/KFC-Crazy-Thursday](https://github.com/Nthily/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
+- [whitescent/KFC-Crazy-Thursday](https://github.com/whitescent/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
 - [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 优雅的搜索引擎跳转助手 Google & Baidu Switcher.user.js.
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
