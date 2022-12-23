@@ -464,7 +464,7 @@
 
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [castorini/daam](https://github.com/castorini/daam) - Diffusion attentive attribution maps for interpreting Stable Diffusion.
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+- [ChatGPT-Hackers/revChatGPT](https://github.com/ChatGPT-Hackers/revChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [zjc062/mind-vis](https://github.com/zjc062/mind-vis) - Code base for MinD-Vis
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
