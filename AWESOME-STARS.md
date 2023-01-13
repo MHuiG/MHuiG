@@ -161,6 +161,7 @@
 - [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
 - [Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera](https://github.com/Puliczek/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera) - 🎩 🤟🏻 [P1-$10,000] Google Chrome, Microsoft Edge and Opera - vulnerability reported by Maciej Pulikowski - System environment variables leak - CVE-2022-0337
 - [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - 在 DOM 上打乱文字，而非视觉上。
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
@@ -214,7 +215,6 @@
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
