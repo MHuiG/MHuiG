@@ -466,7 +466,7 @@
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [castorini/daam](https://github.com/castorini/daam) - Diffusion attentive attribution maps for interpreting Stable Diffusion.
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API. Uses official model same as the website.
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [zjc062/mind-vis](https://github.com/zjc062/mind-vis) - Code base for MinD-Vis
 - [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
@@ -786,7 +786,7 @@
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Track deadlines of conferences recommended by CCF / Please star this project, thanks~
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## Zig 
