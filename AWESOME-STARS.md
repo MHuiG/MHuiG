@@ -422,7 +422,7 @@
 - [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
-- [jinfagang/awesome_transformer](https://github.com/jinfagang/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
+- [lucasjinreal/awesome_transformer](https://github.com/lucasjinreal/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
 - [amusi/ECCV2022-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) - ECCV 2022 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
 - [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [amusi/CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
@@ -509,7 +509,7 @@
 - [ashawkey/torch-ngp](https://github.com/ashawkey/torch-ngp) - A pytorch CUDA extension implementation of instant-ngp (sdf and nerf), with a GUI.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [leamoon/StochasticNet](https://github.com/leamoon/StochasticNet) - Nerual Network of Stochastic Computing for MNIST Recognition
-- [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
+- [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
@@ -694,7 +694,7 @@
 
 ## Rust 
 
-- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware to maximally leverage the power of language safety and thu
+- [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
