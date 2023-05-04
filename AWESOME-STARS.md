@@ -438,7 +438,6 @@
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 熊二：南航计算机考研 专业课资料 和 信息汇总.
-- [ztygalaxy/Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
 - [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
 - [ningzimu/See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT) - 北京邮电大学计算机考研信息汇总
 - [jcnlp/books](https://github.com/jcnlp/books) - 数学教程-高等数学、概率论与数理统计、线性代数
@@ -627,6 +626,7 @@
 - [CarryChang/Customer_Satisfaction_Analysis](https://github.com/CarryChang/Customer_Satisfaction_Analysis) - 基于在线民宿 UGC 数据的意见挖掘项目，包含数据挖掘和NLP 相关的处理，负责数据采集、主题抽取、情感分析等任务。目的是克服用户打分和评论不一致，实时对在线民宿的满意度评测，包含在线评论采集和情感可视化分析。搭建了百度地图POI查询入口，可以进行自动化的批量查询 POI 信息的功能；构建了基于在线民宿语料的 LDA 自动主题聚类模型，利用主题中心词能找出对应的主题属性字典；以用户打分作为标注，然
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
+- [ztygalaxy/Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [zhanghang1989/ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Networks
 - [BlankerL/DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler) - 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API
