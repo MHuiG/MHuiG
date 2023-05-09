@@ -483,7 +483,7 @@
 - [alibaba/TinyNeuralNetwork](https://github.com/alibaba/TinyNeuralNetwork) - TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) - 
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
@@ -655,7 +655,7 @@
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [ahmedfgad/NeuralGenetic](https://github.com/ahmedfgad/NeuralGenetic) - Building and training artificial neural networks (regression or classification) using the genetic algorithm.
-- [ciqu0518/dijkstra_heap](https://github.com/ciqu0518/dijkstra_heap) - dijkstra algorithm optimized with heap
+- [ciquLi/dijkstra_heap](https://github.com/ciquLi/dijkstra_heap) - dijkstra algorithm optimized with heap
 - [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll) - Simple PyTorch Tutorials Zero to ALL!
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
