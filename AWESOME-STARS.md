@@ -441,7 +441,7 @@
 - [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 熊二：南航计算机考研 专业课资料 和 信息汇总.
 - [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
 - [ningzimu/See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT) - 北京邮电大学计算机考研信息汇总
-- [jcnlp/books](https://github.com/jcnlp/books) - 数学教程-高等数学、概率论与数理统计、线性代数
+- [geek-jiaxu/books](https://github.com/geek-jiaxu/books) - 数学教程-高等数学、概率论与数理统计、线性代数
 - [The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR) - A Collection of Algorithms and Datasets for Stereo Image Super-Resolution
 - [lightfield-analysis/resources](https://github.com/lightfield-analysis/resources) - A list of data sets and other resources for light fields for computer vision
 - [kespindler/python-tesseract](https://github.com/kespindler/python-tesseract) - 
@@ -619,7 +619,7 @@
 - [yanyan-li/SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK) - 这是一本关于SLAM的书稿，希望能清楚的介绍SLAM系统中的使用的几何方法和深度学习方法。书稿最后应该会达到200页左右，书稿每章对应的代码也会被整理出来。
 - [tuna/blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [asyml/texar](https://github.com/asyml/texar) - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.  This is part of the CASL project: http://casl-project.ai/
-- [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy
+- [mozillazg/pypy](https://github.com/mozillazg/pypy) - The unofficial GitHub mirror of PyPy (mirrored via https://github.com/mozillazg/job-mirror-hg-repos)
 - [kellenf/TSP_collection](https://github.com/kellenf/TSP_collection) - TSP算法全复现：遗传(GA)、粒子群(PSO)、模拟退火(SA)、禁忌搜索(ST)、蚁群算法(ACO)、自自组织神经网络(SOM)
 - [HuyCui/GraduationProject](https://github.com/HuyCui/GraduationProject) - 本科毕业设计，基于机器学习的商品评论分析系统
 - [nlpjoe/Coding4Interviews](https://github.com/nlpjoe/Coding4Interviews) - Leetcode、剑指Offer——名企面试官精讲典型编程题
