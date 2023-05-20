@@ -298,7 +298,7 @@
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [360code/jquery](https://github.com/360code/jquery) - 基于jquery1.8.3，分析每个模块代码，了解其实现和设计，让我们在使用jQuery过程中，能够知其然，知其所以然，同时把jQuery不错的设计和实现引入到工作中来。
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 - [ttop5/to-be-slack](https://github.com/ttop5/to-be-slack) - ！！！【接口已停，没有数据】今日热榜，摸鱼神器。支持全平台：Web、PC、Mobile 及 Chrome 插件。
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
@@ -523,7 +523,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - CVPR 2022 | ICON: Implicit Clothed humans Obtained from Normals
+- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR'22] ICON: Implicit Clothed humans Obtained from Normals
 - [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
 - [MHG-LAB/RSSBOX](https://github.com/MHG-LAB/RSSBOX) - MHuiGのRSS订阅
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
