@@ -248,7 +248,6 @@
 - [lancedikson/bowser](https://github.com/lancedikson/bowser) - a browser detector
 - [bestiejs/platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
 - [AJLoveChina/fingerprintDemo](https://github.com/AJLoveChina/fingerprintDemo) - :hand:浏览器指纹 audio指纹，webgl指纹，canvas指纹的生成算法
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [MHG-LAB/friends-gallery](https://github.com/MHG-LAB/friends-gallery) - friends-gallery
 - [lqqyt2423/google-translate-cn-api](https://github.com/lqqyt2423/google-translate-cn-api) - node.js 实现谷歌翻译 api，命令行工具 command line
 - [swalker-888/google-indexing-api-bulk](https://github.com/swalker-888/google-indexing-api-bulk) - Submit URLs in bulk to Google's Indexing API using a batch request
@@ -727,6 +726,7 @@
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - 
