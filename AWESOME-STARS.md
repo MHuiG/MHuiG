@@ -340,7 +340,7 @@
 - [nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018](https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018) - CCF-BDCI 2018年汽车行业用户观点主题及情感识别挑战赛 第6名解决方案
 - [zylo117/Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) - The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights.
 - [numediart/EEGLearn-Pytorch](https://github.com/numediart/EEGLearn-Pytorch) - 
-- [matthewlw/snn-seizure-prediction](https://github.com/matthewlw/snn-seizure-prediction) - Predict seizures from EEGs using two models of spiking neural networks
+- [mwootten/snn-seizure-prediction](https://github.com/mwootten/snn-seizure-prediction) - Predict seizures from EEGs using two models of spiking neural networks
 - [szagoruyko/attention-transfer](https://github.com/szagoruyko/attention-transfer) - Improving Convolutional Networks via Attention Transfer (ICLR 2017)
 - [chenyuntc/pytorch-book](https://github.com/chenyuntc/pytorch-book) - PyTorch tutorials and fun projects including neural talk, neural style, poem writing, anime generation (《深度学习框架PyTorch：入门与实战》)
 - [spro/practical-pytorch](https://github.com/spro/practical-pytorch) - Go to https://github.com/pytorch/tutorials - this repo is deprecated and no longer maintained
