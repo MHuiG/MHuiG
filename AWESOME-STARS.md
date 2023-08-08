@@ -328,7 +328,7 @@
 - [visinf/fast-axiomatic-attribution](https://github.com/visinf/fast-axiomatic-attribution) - Fast Axiomatic Attribution for Neural Networks (NeurIPS*2021)
 - [ai-forever/ru-dalle](https://github.com/ai-forever/ru-dalle) - Generate images from texts. In Russian
 - [zademn/EverythingCrypto](https://github.com/zademn/EverythingCrypto) - (Still exploring) My cryptography journey: A collection of notebooks covering different algorithms and concepts from cryptography
-- [hustvl/YOLOS](https://github.com/hustvl/YOLOS) - You Only Look at One Sequence (NeurIPS 2021)
+- [hustvl/YOLOS](https://github.com/hustvl/YOLOS) - [NeurIPS 2021] You Only Look at One Sequence
 - [Jezzamonn/fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms
 - [liuwei16/CSP](https://github.com/liuwei16/CSP) - High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection, CVPR, 2019
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
@@ -756,7 +756,7 @@
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
-- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
