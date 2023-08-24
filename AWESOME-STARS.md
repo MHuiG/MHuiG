@@ -227,7 +227,6 @@
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
-- [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
