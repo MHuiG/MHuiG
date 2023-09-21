@@ -561,7 +561,7 @@
 - [ddbourgin/numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 - [huawei-noah/Pretrained-Language-Model](https://github.com/huawei-noah/Pretrained-Language-Model) - Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.
 - [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) - PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Multimodal AI services & pipelines with cloud-native stack: gRPC, Kubernetes, Docker, OpenTelemetry, Prometheus, Jaeger, etc.
+- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [codemayq/chinese_chatbot_corpus](https://github.com/codemayq/chinese_chatbot_corpus) - 中文公开聊天语料库
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception.（MIR2022）
@@ -616,7 +616,7 @@
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-201
 - [microsoft/MPNet](https://github.com/microsoft/MPNet) - MPNet: Masked and Permuted Pre-training for Language Understanding   https://arxiv.org/pdf/2004.09297.pdf
-- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
 - [ymcui/cmrc2018](https://github.com/ymcui/cmrc2018) - A Span-Extraction Dataset for Chinese Machine Reading Comprehension  (CMRC 2018)
 - [pengming617/bert_classification](https://github.com/pengming617/bert_classification) - 利用bert预训练的中文模型进行文本分类  数据集中文情感分析语料chnsenticorp
 - [ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) - Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）
