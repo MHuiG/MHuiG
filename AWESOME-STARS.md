@@ -498,7 +498,6 @@
 - [google/latexify_py](https://github.com/google/latexify_py) - A library to generate LaTeX expression from Python code.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [Yiyiyimu/QQ-History-Backup](https://github.com/Yiyiyimu/QQ-History-Backup) - QQ聊天记录备份导出，支持无密钥导出，图片导出。无需编译有GUI界面。Backup Chating History of Instant Messaging QQ.
-- [kifuan/helang](https://github.com/kifuan/helang) - 何语言，次世代赛博编程语言。
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
