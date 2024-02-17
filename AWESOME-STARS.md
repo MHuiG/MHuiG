@@ -317,7 +317,7 @@
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [castorini/daam](https://github.com/castorini/daam) - Diffusion attentive attribution maps for interpreting Stable Diffusion.
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
-- [stochasticai/x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention.
+- [stochasticai/x-stable-diffusion](https://github.com/stochasticai/x-stable-diffusion) - Real-time inference for Stable Diffusion - 0.88s latency. Covers AITemplate, nvFuser, TensorRT, FlashAttention. Join our Discord communty: https://discord.com/invite/TgHXuSJEk6
 - [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
