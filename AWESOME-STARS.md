@@ -206,7 +206,6 @@
 - [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt) - Trying to reproduce CVE-2021-43908
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [Dyalog/TryAPL](https://github.com/Dyalog/TryAPL) - This is the source code for TryAPL.org
@@ -425,7 +424,7 @@
 - [lucasjinreal/awesome_transformer](https://github.com/lucasjinreal/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
 - [amusi/ECCV2022-Papers-with-Code](https://github.com/amusi/ECCV2022-Papers-with-Code) - ECCV 2022 论文开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2020开源项目
 - [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
-- [amusi/CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
+- [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 - [cosmologicon/pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [thunlp/OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [thunlp/CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
@@ -765,6 +764,7 @@
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
