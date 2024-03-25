@@ -433,7 +433,7 @@
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes) - 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note) - 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）
-- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
+- [hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh) - Linux 内核揭秘
 - [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 - [nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) - 熊二：南航计算机考研 专业课资料 和 信息汇总.
 - [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
