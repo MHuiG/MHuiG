@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [Cuda](#cuda)
 - [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [EJS](#ejs)
@@ -127,6 +128,10 @@
 ## CoffeeScript 
 
 - [boennemann/badges](https://github.com/boennemann/badges) - :flower_playing_cards: Readme Badges – Gotta catch 'em all
+
+## Cuda 
+
+- [XuezheMax/megalodon](https://github.com/XuezheMax/megalodon) - Reference implementation of Megalodon 7B model
 
 ## DIGITAL Command Language 
 
