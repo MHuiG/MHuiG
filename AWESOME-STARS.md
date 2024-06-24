@@ -481,7 +481,7 @@
 
 - [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V.  接近GPT-4V表现的可商用开源多模态对话模型
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.         广受欢迎的开源堡垒机。
 - [friuns2/Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
