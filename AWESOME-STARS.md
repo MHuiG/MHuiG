@@ -150,7 +150,7 @@
 ## EJS 
 
 - [FZSZXXB/ReXpress](https://github.com/FZSZXXB/ReXpress) - The Blog System Powers FZSZ Sanyechong Online Magazine Website.
-- [FZSZXXB/rateboard2](https://github.com/FZSZXXB/rateboard2) - Rateboard 2.0
+- [FZSZXXB/rateboard2](https://github.com/FZSZXXB/rateboard2) - Rateboard 2.0 system for sports event information
 
 ## Go 
 
