@@ -124,7 +124,7 @@
 
 ## CSS 
 
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [ownthink/robot](https://github.com/ownthink/robot) - 知识图谱问答机器人，聊天机器人，基于知识图谱、语义理解等的对话机器人。
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 
