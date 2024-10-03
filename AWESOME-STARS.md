@@ -569,7 +569,7 @@
 - [hendrycks/math](https://github.com/hendrycks/math) - The MATH Dataset (NeurIPS 2021)
 - [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) - [NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL) - A PyTorch-based library for semi-supervised learning (NeurIPS'21)
 - [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
