@@ -291,7 +291,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: "Get to Know Your Visitors Better" - The Essential Web Development Tool for User-Agent Detection
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 - [filamentgroup/loadCSS](https://github.com/filamentgroup/loadCSS) - Load CSS asynchronously
 - [LemonChiu/NBA-Visualization](https://github.com/LemonChiu/NBA-Visualization) - Visualization of NBA 2014-2015 with D3.js
