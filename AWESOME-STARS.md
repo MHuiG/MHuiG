@@ -225,6 +225,7 @@
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode) - VSCode extension for code suggestion
+- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [Richienb/node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin) - Polyfill Node.js core modules in Webpack.
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
@@ -464,7 +465,7 @@
 - [XuefengHuang/awesome-ML-book-chinese](https://github.com/XuefengHuang/awesome-ML-book-chinese) - 
 - [kxxwz/SJTU-Courses](https://github.com/kxxwz/SJTU-Courses) - 上海交通大学课程资料分享
 - [DeronW/beautifulsoup](https://github.com/DeronW/beautifulsoup) - Beautifulsoup docs in Chinese
-- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、美区apple id共享账号
+- [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区app
 
 ## PHP 
 
@@ -539,7 +540,6 @@
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
-- [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [sh3d0ww01f/WaterDragon](https://github.com/sh3d0ww01f/WaterDragon) - WaterDragon:用GithubAction实现代理功能。红队,cve,代理池,隐匿,攻防,对抗，hackone,src,proxy,CVE-2020,CVE-2021,CVE-2022
 - [UCSC-VLAA/RobustCNN](https://github.com/UCSC-VLAA/RobustCNN) - [ICLR 2023] This repository includes the official implementation our paper "Can CNNs Be More Robust Than Transformers?"
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
