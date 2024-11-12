@@ -176,6 +176,7 @@
 
 ## HTML 
 
+- [crazypeace/Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) - 使用秘密路径访问操作页面. 支持自定义短链. API 不公开服务. 页面缓存设置过的短链. 长链接文本框预搜索localStorage. 增加删除某条短链的按钮. 增加读取KV的按钮. 支持QRcode二维码. 变身网络记事本 Pastebin. 变身图床 Image Hosting. 变身网络日记本. A URL Shortener created using Cloudflare worker
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 - [rollingpwn/rolling-pwn](https://github.com/rollingpwn/rolling-pwn) - rolling pwn
@@ -213,6 +214,8 @@
 
 ## JavaScript 
 
+- [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
+- [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare-workers/pages代理脚本【Vless与Trojan】，支持reality协议一键自制proxyip（IPV4、IPV6、域名三形式），推荐CF优选官方IP三地区脚本，自动输出美、亚、欧最优IP
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
@@ -478,6 +481,8 @@
 
 ## Python 
 
+- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
+- [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型
 - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models"
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
@@ -774,6 +779,7 @@
 
 ## TypeScript 
 
+- [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持多域名后缀，密码找回。
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
