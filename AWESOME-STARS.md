@@ -223,6 +223,7 @@
 
 ## JavaScript 
 
+- [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) - Forward email to telegram with Cloudflare Email Routing
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
 - [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare-workers/pages代理脚本【Vless与Trojan】，全网首发reality协议一键自建proxyip与CF反代IP，推荐CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
@@ -491,6 +492,7 @@
 
 ## Python 
 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to.
@@ -795,6 +797,9 @@
 
 ## TypeScript 
 
+- [FixTweet/FxTwitter](https://github.com/FixTweet/FxTwitter) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
+- [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+- [SukkaW/dashflare](https://github.com/SukkaW/dashflare) - An unofficial Cloudflare dashboard built on top of Cloudflare API.
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact 是一个摄影师专用的摄影作品展示网站，基于 Next.js + Hono.js 开发。今天又是想当二次元摄影高手的一天呢！
 - [tg-watchdog/tg-watchdog](https://github.com/tg-watchdog/tg-watchdog) - The brand-new solution for anti-abuse from Telegram groupchats.
 - [yllhwa/FileWorker](https://github.com/yllhwa/FileWorker) - 运行在Cloudflare Worker上的在线剪贴板/文件共享
