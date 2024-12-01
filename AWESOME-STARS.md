@@ -491,6 +491,7 @@
 
 ## Python 
 
+- [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 - [ngerakines/commitment](https://github.com/ngerakines/commitment) - A commit message generator that I use.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [yangchris11/samurai](https://github.com/yangchris11/samurai) - Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
