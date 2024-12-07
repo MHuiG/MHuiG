@@ -401,6 +401,8 @@
 
 ## Others 
 
+- [liudaizong/Awesome-LVLM-Attack](https://github.com/liudaizong/Awesome-LVLM-Attack) - 😎 up-to-date & curated list of awesome Attacks on Large-Vision-Language-Models papers, methods & resources.
+- [ByteFlow-AI/TokenFlow](https://github.com/ByteFlow-AI/TokenFlow) - 🔥 Official impl. of "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation".
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [travisgoodspeed/gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial) - Tutorial for extracting the GameBoy ROM from photographs of the die.
 - [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
@@ -490,6 +492,8 @@
 
 ## Python 
 
+- [koabula/MiniCoin](https://github.com/koabula/MiniCoin) - A little example to explain blockchain
+- [nv-tlabs/L4GM-official](https://github.com/nv-tlabs/L4GM-official) - [NeurIPS 2024] L4GM: Large 4D Gaussian Reconstruction Model
 - [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 - [ngerakines/commitment](https://github.com/ngerakines/commitment) - A commit message generator that I use.
