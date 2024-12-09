@@ -225,7 +225,7 @@
 
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) - Forward email to telegram with Cloudflare Email Routing
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
-- [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare-workers/pages代理脚本【Vless与Trojan】，VPS与Serv00都支持reality协议一键自建proxyip与CF反代IP，推荐CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+- [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - CF-workers/pages代理脚本【Vless与Trojan】，Serv00三合一脚本【Vless-reality、Vmess-ws(Argo)、Hysteria2】支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
@@ -402,7 +402,6 @@
 ## Others 
 
 - [liudaizong/Awesome-LVLM-Attack](https://github.com/liudaizong/Awesome-LVLM-Attack) - 😎 up-to-date & curated list of awesome Attacks on Large-Vision-Language-Models papers, methods & resources.
-- [ByteFlow-AI/TokenFlow](https://github.com/ByteFlow-AI/TokenFlow) - 🔥 Official impl. of "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation".
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [travisgoodspeed/gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial) - Tutorial for extracting the GameBoy ROM from photographs of the die.
 - [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - Tools and documentation for Win32 app isolation
@@ -492,6 +491,7 @@
 ## Python 
 
 - [koabula/MiniCoin](https://github.com/koabula/MiniCoin) - A little example to explain blockchain
+- [ByteFlow-AI/TokenFlow](https://github.com/ByteFlow-AI/TokenFlow) - 🔥 Official impl. of "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation".
 - [nv-tlabs/L4GM-official](https://github.com/nv-tlabs/L4GM-official) - [NeurIPS 2024] L4GM: Large 4D Gaussian Reconstruction Model
 - [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
