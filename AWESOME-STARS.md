@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [self-rewarding-llm-training/self-rewarding-llm-training.github.io](https://github.com/self-rewarding-llm-training/self-rewarding-llm-training.github.io) - 
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
 - [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
@@ -492,6 +493,10 @@
 
 ## Python 
 
+- [jennyzzt/dgm](https://github.com/jennyzzt/dgm) - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
+- [waltonfuture/MM-UPT](https://github.com/waltonfuture/MM-UPT) - Unsupervised GRPO
+- [Euphoria16/UI-Genie](https://github.com/Euphoria16/UI-Genie) - 
+- [tajwarfahim/srt](https://github.com/tajwarfahim/srt) - Official implementation for the paper "Can Large Reasoning Models Self-Train?"
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
