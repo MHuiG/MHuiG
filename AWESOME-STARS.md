@@ -503,7 +503,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [koabula/MiniCoin](https://github.com/koabula/MiniCoin) - A little example to explain blockchain
-- [ByteFlow-AI/TokenFlow](https://github.com/ByteFlow-AI/TokenFlow) - [CVPR 2025] 🔥 Official impl. of "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation".
+- [ByteVisionLab/TokenFlow](https://github.com/ByteVisionLab/TokenFlow) - [CVPR 2025] 🔥 Official impl. of "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation".
 - [nv-tlabs/L4GM-official](https://github.com/nv-tlabs/L4GM-official) - [NeurIPS 2024] L4GM: Large 4D Gaussian Reconstruction Model
 - [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
