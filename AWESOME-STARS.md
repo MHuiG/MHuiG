@@ -329,7 +329,7 @@
 - [notablemind/jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs) - A node.js kernel for jupyter/ipython
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [brix/crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [travist/jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [travist/jsencrypt](https://github.com/travist/jsencrypt) - A tiny (18.5 kB gzip), zero-dependency, Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [ecomfe/echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud) - Word Cloud extension based on Apache ECharts and wordcloud2.js
 - [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [AppianZ/multi-picker](https://github.com/AppianZ/multi-picker) - A Custom Multi Picker(⁎⁍̴̛ᴗ⁍̴̛⁎) 『为移动端而生』的自定义多级联动选择器，可处理各种类型的多级联动，例如时间联动、城市联动、FAQ联动。
@@ -482,7 +482,7 @@
 - [L1aoXingyu/Roadmap-of-DL-and-ML](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML) - Roadmap of DL and ML, some courses, study notes and paper summary
 - [XuefengHuang/awesome-ML-book-chinese](https://github.com/XuefengHuang/awesome-ML-book-chinese) - 
 - [kxxwz/SJTU-Courses](https://github.com/kxxwz/SJTU-Courses) - 上海交通大学课程资料分享
-- [DeronW/beautifulsoup](https://github.com/DeronW/beautifulsoup) - Beautifulsoup docs in Chinese
+- [delong8/beautifulsoup](https://github.com/delong8/beautifulsoup) - Beautifulsoup docs in Chinese
 
 ## PHP 
 
