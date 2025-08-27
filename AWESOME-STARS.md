@@ -107,7 +107,7 @@
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [wanttobeno/AntiDebuggers](https://github.com/wanttobeno/AntiDebuggers) - 30种方法检测程序是否被调试
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [huawei-noah/bolt](https://github.com/huawei-noah/bolt) - Bolt is a deep learning library with high performance and heterogeneous flexibility.
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
