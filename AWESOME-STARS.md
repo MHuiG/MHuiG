@@ -497,7 +497,7 @@
 ## Python 
 
 - [jennyzzt/dgm](https://github.com/jennyzzt/dgm) - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
-- [waltonfuture/MM-UPT](https://github.com/waltonfuture/MM-UPT) - Unsupervised GRPO
+- [waltonfuture/MM-UPT](https://github.com/waltonfuture/MM-UPT) - [NeurIPS 2025] Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO
 - [Euphoria16/UI-Genie](https://github.com/Euphoria16/UI-Genie) - 
 - [tajwarfahim/srt](https://github.com/tajwarfahim/srt) - Official implementation for the paper "Can Large Reasoning Models Self-Train?"
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
