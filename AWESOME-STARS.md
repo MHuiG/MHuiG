@@ -226,6 +226,7 @@
 
 ## JavaScript 
 
+- [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 - [self-rewarding-llm-training/self-rewarding-llm-training.github.io](https://github.com/self-rewarding-llm-training/self-rewarding-llm-training.github.io) - 
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
 - [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
