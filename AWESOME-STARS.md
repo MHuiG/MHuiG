@@ -252,7 +252,6 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
-- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
@@ -435,6 +434,7 @@
 - [skypackjs/skypack-cdn](https://github.com/skypackjs/skypack-cdn) - An issue tracker for the CDN
 - [RimoChan/smoke_of_deceit](https://github.com/RimoChan/smoke_of_deceit) - 把代码藏起来！
 - [yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT) - 进入 Web3 第一步，从拥有第一张 NFT 开始。
+- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
@@ -829,7 +829,7 @@
 - [fleek-platform/website](https://github.com/fleek-platform/website) - This repository contains the source code and assets for the Fleek.xyz website, which is built using the Astro.js framework for enhanced performance and speed. The project leverages Tailwind CSS for st
 - [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) - Forward email to telegram with Cloudflare Email Routing
-- [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - Cloudflare AI Platform with one-click deployment. 可一键部署的Cloudflare AI平台
+- [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - Cloudflare AI Platform with one-click deployment
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare) - An unofficial Cloudflare dashboard built on top of Cloudflare API.
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 自部署的摄影作品网站，支持多种功能特性。PicImpact，分享你和世界！
 - [tg-watchdog/tg-watchdog](https://github.com/tg-watchdog/tg-watchdog) - The brand-new solution for anti-abuse from Telegram groupchats.
