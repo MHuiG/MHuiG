@@ -501,6 +501,7 @@
 
 ## Python 
 
+- [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
 - [stanford-cs221/autumn2025-lectures](https://github.com/stanford-cs221/autumn2025-lectures) - Executable lectures for Autumn 2025
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) - 🧬 The Huxley-Gödel Machine
