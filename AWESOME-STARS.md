@@ -502,6 +502,7 @@
 
 ## Python 
 
+- [uraniceye/nexus-quantum-core](https://github.com/uraniceye/nexus-quantum-core) - Core quantum simulation library for the NEXUS Quantum Defense project.
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
 - [stanford-cs221/autumn2025-lectures](https://github.com/stanford-cs221/autumn2025-lectures) - Executable lectures for Autumn 2025
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
