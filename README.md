@@ -45,7 +45,7 @@ Wish you a good-looking profile README!
 ---
 
 <!--START_SECTION:progressBar-->
-⏳ Year progress { ████████████████████████████▁▁ } 96.10 %
+⏳ Year progress { ████████████████████████████▁▁ } 96.18 %
 
 <!--END_SECTION:progressBar-->
 
