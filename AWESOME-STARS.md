@@ -465,7 +465,7 @@
 - [lucasjinreal/awesome_transformer](https://github.com/lucasjinreal/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
 - [amusi/ECCV2024-Papers-with-Code](https://github.com/amusi/ECCV2024-Papers-with-Code) - ECCV 2024 论文和开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2024论文和开源项目
 - [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
-- [amusi/CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+- [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [cosmologicon/pywat](https://github.com/cosmologicon/pywat) - Python wats
 - [thunlp/OpenCLaP](https://github.com/thunlp/OpenCLaP) - Open Chinese Language Pre-trained Model Zoo
 - [thunlp/CAIL](https://github.com/thunlp/CAIL) - Chinese AI & Law Challenge
