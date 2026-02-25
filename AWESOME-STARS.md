@@ -18,7 +18,6 @@
 - [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
@@ -157,11 +156,6 @@
 ## Dockerfile 
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-## EJS 
-
-- [FZSZXXB/ReXpress](https://github.com/FZSZXXB/ReXpress) - The Blog System Powers FZSZ Sanyechong Online Magazine Website.
-- [FZSZXXB/rateboard2](https://github.com/FZSZXXB/rateboard2) - Rateboard 2.0 system for sports event information
 
 ## Elixir 
 
