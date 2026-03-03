@@ -481,7 +481,7 @@
 - [DataXujing/CNN-paper2](https://github.com/DataXujing/CNN-paper2) - :art: :art: 深度学习 卷积神经网络教程 ：图像识别，目标检测，语义分割，实例分割，人脸识别，神经风格转换，GAN等:art::art:  https://dataxujing.github.io/CNN-paper2/
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
+- [zhongyi-tong/git-recipes](https://github.com/zhongyi-tong/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [L1aoXingyu/Roadmap-of-DL-and-ML](https://github.com/L1aoXingyu/Roadmap-of-DL-and-ML) - Roadmap of DL and ML, some courses, study notes and paper summary
@@ -500,6 +500,7 @@
 
 ## Python 
 
+- [BytedTsinghua-SIA/CUDA-Agent](https://github.com/BytedTsinghua-SIA/CUDA-Agent) - CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation
 - [lsdefine/pc-agent-loop](https://github.com/lsdefine/pc-agent-loop) - AI-powered PC agent loop for desktop automation and intelligent task execution
 - [uraniceye/nexus-quantum-core](https://github.com/uraniceye/nexus-quantum-core) - Core quantum simulation library for the NEXUS Quantum Defense project.
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
