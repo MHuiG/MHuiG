@@ -406,6 +406,7 @@
 
 ## Others 
 
+- [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [Euler2023/Landscape_of_21_century_math_ch](https://github.com/Euler2023/Landscape_of_21_century_math_ch) - 
 - [salcaraz/Quantum](https://github.com/salcaraz/Quantum) - Quantum computing books
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -500,6 +501,7 @@
 
 ## Python 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [BytedTsinghua-SIA/CUDA-Agent](https://github.com/BytedTsinghua-SIA/CUDA-Agent) - CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation
 - [lsdefine/pc-agent-loop](https://github.com/lsdefine/pc-agent-loop) - AI-powered PC agent loop for desktop automation and intelligent task execution
 - [uraniceye/nexus-quantum-core](https://github.com/uraniceye/nexus-quantum-core) - Core quantum simulation library for the NEXUS Quantum Defense project.
