@@ -408,6 +408,7 @@
 
 ## Others 
 
+- [MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals) - 
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [Euler2023/Landscape_of_21_century_math_ch](https://github.com/Euler2023/Landscape_of_21_century_math_ch) - 
 - [salcaraz/Quantum](https://github.com/salcaraz/Quantum) - Quantum computing books
