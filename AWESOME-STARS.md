@@ -502,6 +502,7 @@
 
 ## Python 
 
+- [lillian039/ELF](https://github.com/lillian039/ELF) - 
 - [centerforaisafety/wellbeing](https://github.com/centerforaisafety/wellbeing) - Measuring and improving the functional pleasure and pain of AIs
 - [Jiawei-Yang/FD-Loss](https://github.com/Jiawei-Yang/FD-Loss) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
