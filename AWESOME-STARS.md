@@ -61,6 +61,7 @@
 
 ## C 
 
+- [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918) - CVE-2022-34918 netfilter nf_tables 本地提权 POC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -402,6 +403,7 @@
 
 ## Others 
 
+- [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup(Work In Progress & Pending Integration)
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals) - 
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
@@ -521,7 +523,7 @@
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) - 🧬 The Huxley-Gödel Machine
 - [jennyzzt/dgm](https://github.com/jennyzzt/dgm) - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
-- [waltonfuture/MM-UPT](https://github.com/waltonfuture/MM-UPT) - [NeurIPS 2025] Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO
+- [waltonfuture/MM-UPT](https://github.com/waltonfuture/MM-UPT) - [NeurIPS 2025] First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training
 - [Euphoria16/UI-Genie](https://github.com/Euphoria16/UI-Genie) - [NeurIPS 2025] UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents
 - [tajwarfahim/srt](https://github.com/tajwarfahim/srt) - Official implementation for the paper "Can Large Reasoning Models Self-Train?"
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
