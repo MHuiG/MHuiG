@@ -403,6 +403,7 @@
 
 ## Others 
 
+- [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) - 
 - [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup(Work In Progress & Pending Integration)
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals) - 
@@ -503,6 +504,7 @@
 
 ## Python 
 
+- [dakshaymehta/cardputer-claude-os](https://github.com/dakshaymehta/cardputer-claude-os) - DIY OS bundle for the M5Stack Cardputer: Claude Buddy (BLE), Push-to-Claude (voice + chat with memory via a Cloudflare Worker), and a flash-and-go installer skill for Claude Code. Forked from moremas/
 - [lillian039/ELF](https://github.com/lillian039/ELF) - 
 - [centerforaisafety/wellbeing](https://github.com/centerforaisafety/wellbeing) - Measuring and improving the functional pleasure and pain of AIs
 - [Jiawei-Yang/FD-Loss](https://github.com/Jiawei-Yang/FD-Loss) - 
