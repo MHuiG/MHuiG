@@ -61,6 +61,7 @@
 
 ## C 
 
+- [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) - CoolPotOS for ia32 / amd64 / riscv64
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918) - CVE-2022-34918 netfilter nf_tables 本地提权 POC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -403,6 +404,7 @@
 
 ## Others 
 
+- [hangli-hl/AI-Articles](https://github.com/hangli-hl/AI-Articles) - This repository contains articles about AI, written by Hang Li and his collaborators
 - [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) - 
 - [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup(Work In Progress & Pending Integration)
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
@@ -504,6 +506,8 @@
 
 ## Python 
 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [wolfvoid/FrameSeeker-vRAG](https://github.com/wolfvoid/FrameSeeker-vRAG) - a Multimodal Rag System for long videos
 - [dakshaymehta/cardputer-claude-os](https://github.com/dakshaymehta/cardputer-claude-os) - DIY OS bundle for the M5Stack Cardputer: Claude Buddy (BLE), Push-to-Claude (voice + chat with memory via a Cloudflare Worker), and a flash-and-go installer skill for Claude Code. Forked from moremas/
 - [lillian039/ELF](https://github.com/lillian039/ELF) - 
 - [centerforaisafety/wellbeing](https://github.com/centerforaisafety/wellbeing) - Measuring and improving the functional pleasure and pain of AIs
