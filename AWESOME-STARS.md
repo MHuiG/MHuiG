@@ -506,6 +506,7 @@
 
 ## Python 
 
+- [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [wolfvoid/FrameSeeker-vRAG](https://github.com/wolfvoid/FrameSeeker-vRAG) - a Multimodal Rag System for long videos
 - [dakshaymehta/cardputer-claude-os](https://github.com/dakshaymehta/cardputer-claude-os) - DIY OS bundle for the M5Stack Cardputer: Claude Buddy (BLE), Push-to-Claude (voice + chat with memory via a Cloudflare Worker), and a flash-and-go installer skill for Claude Code. Forked from moremas/
