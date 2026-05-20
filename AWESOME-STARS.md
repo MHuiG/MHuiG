@@ -67,7 +67,6 @@
 
 ## C 
 
-- [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) - CoolPotOS for ia32 / amd64 / riscv64
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918) - CVE-2022-34918 netfilter nf_tables 本地提权 POC
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -411,6 +410,7 @@
 ## Others 
 
 - [hangli-hl/AI-Articles](https://github.com/hangli-hl/AI-Articles) - This repository contains articles about AI, written by Hang Li and his collaborators
+- [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) - CoolPotOS for ia32 / amd64 / riscv64
 - [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) - 
 - [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup(Work In Progress & Pending Integration)
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
