@@ -258,7 +258,6 @@
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
 - [sablejs/sablejs](https://github.com/sablejs/sablejs) - 🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
 - [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
@@ -410,6 +409,7 @@
 
 ## Others 
 
+- [ZiyuGuo99/ATLAS](https://github.com/ZiyuGuo99/ATLAS) - One Discrete Word for Visual Reasoning Overtakes Agentic and Latent Methods
 - [hangli-hl/AI-Articles](https://github.com/hangli-hl/AI-Articles) - This repository contains articles about AI, written by Hang Li and his collaborators
 - [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) - 
 - [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup(Work In Progress & Pending Integration)
@@ -512,6 +512,7 @@
 
 ## Python 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [wolfvoid/FrameSeeker-vRAG](https://github.com/wolfvoid/FrameSeeker-vRAG) - a Multimodal Rag System for long videos
@@ -847,6 +848,7 @@
 
 ## Svelte 
 
+- [antiboredom/ffmpeg-explorer](https://github.com/antiboredom/ffmpeg-explorer) - Create and render complex ffmpeg filtergraphs in the browser.
 - [leomotors/anime-captcha](https://github.com/leomotors/anime-captcha) - Just a Normal Captcha, you are not a robot? Then pass this Captcha!
 - [YeungKC/Hakuba](https://github.com/YeungKC/Hakuba) - A fast blog starter that reads data off GitHub Discussions.
 
@@ -906,6 +908,7 @@
 - [Innei/shuffle-article](https://github.com/Innei/shuffle-article) - Shuffle text in the DOM while preserving visual rendering for lightweight copy protection.
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables.
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [opensec-cn/crx-scouter](https://github.com/opensec-cn/crx-scouter) - 🔎  crx-scouter.js can detect which Chrome extensions we are using quietly.
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
