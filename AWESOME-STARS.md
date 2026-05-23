@@ -409,6 +409,7 @@
 
 ## Others 
 
+- [cooperleong00/Awesome-LLM-Interpretability](https://github.com/cooperleong00/Awesome-LLM-Interpretability) - A curated list of LLM Interpretability related material - Tutorial, Library, Survey, Paper, Blog, etc..
 - [ZiyuGuo99/ATLAS](https://github.com/ZiyuGuo99/ATLAS) - One Discrete Word for Visual Reasoning Overtakes Agentic and Latent Methods
 - [hangli-hl/AI-Articles](https://github.com/hangli-hl/AI-Articles) - This repository contains articles about AI, written by Hang Li and his collaborators
 - [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) - 
@@ -512,6 +513,8 @@
 
 ## Python 
 
+- [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - Training Sparse Autoencoders on Language Models
+- [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
