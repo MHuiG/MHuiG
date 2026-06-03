@@ -408,6 +408,7 @@
 
 ## Others 
 
+- [hzg0601/LLM-Algorithm-Stack_Training-and-Inferring](https://github.com/hzg0601/LLM-Algorithm-Stack_Training-and-Inferring) - A book about Training and Inferring Technology Stack of LLM
 - [nv-tlabs/Gamma-World](https://github.com/nv-tlabs/Gamma-World) - Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
 - [holyshell/Books](https://github.com/holyshell/Books) - Some special ebooks，一些个人喜欢同时也比较特别的电子书
 - [cooperleong00/Awesome-LLM-Interpretability](https://github.com/cooperleong00/Awesome-LLM-Interpretability) - A curated list of LLM Interpretability related material - Tutorial, Library, Survey, Paper, Blog, etc..
