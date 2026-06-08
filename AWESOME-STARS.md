@@ -412,7 +412,6 @@
 - [nv-tlabs/Gamma-World](https://github.com/nv-tlabs/Gamma-World) - Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
 - [holyshell/Books](https://github.com/holyshell/Books) - Some special ebooks，一些个人喜欢同时也比较特别的电子书
 - [cooperleong00/Awesome-LLM-Interpretability](https://github.com/cooperleong00/Awesome-LLM-Interpretability) - A curated list of LLM Interpretability related material - Tutorial, Library, Survey, Paper, Blog, etc..
-- [ZiyuGuo99/ATLAS](https://github.com/ZiyuGuo99/ATLAS) - One Discrete Word for Visual Reasoning Overtakes Agentic and Latent Methods
 - [hangli-hl/AI-Articles](https://github.com/hangli-hl/AI-Articles) - This repository contains articles about AI, written by Hang Li and his collaborators
 - [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) - 
 - [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup(Work In Progress & Pending Integration)
@@ -520,6 +519,7 @@
 - [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - Training Sparse Autoencoders on Language Models
 - [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP "Made with AI", Gemini sparkle) from AI-generated images
+- [ZiyuGuo99/ATLAS](https://github.com/ZiyuGuo99/ATLAS) - One Discrete Word for Visual Reasoning Overtakes Agentic and Latent Methods
 - [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [wolfvoid/FrameSeeker-vRAG](https://github.com/wolfvoid/FrameSeeker-vRAG) - a Multimodal Rag System for long videos
@@ -802,7 +802,7 @@
 ## Rust 
 
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
