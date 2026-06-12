@@ -55,6 +55,7 @@
 
 ## Astro 
 
+- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.
 - [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
 
 ## AutoIt 
@@ -408,6 +409,7 @@
 
 ## Others 
 
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [hzg0601/LLM-Algorithm-Stack_Training-and-Inferring](https://github.com/hzg0601/LLM-Algorithm-Stack_Training-and-Inferring) - A book about Training and Inferring Technology Stack of LLM
 - [nv-tlabs/Gamma-World](https://github.com/nv-tlabs/Gamma-World) - Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
 - [holyshell/Books](https://github.com/holyshell/Books) - Some special ebooks，一些个人喜欢同时也比较特别的电子书
