@@ -21,6 +21,7 @@
 - [Elixir](#elixir)
 - [Go](#go)
 - [HTML](#html)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -55,7 +56,7 @@
 
 ## Astro 
 
-- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.
+- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 🍀Firefly, fresh and aesthetic Astro blog theme template.
 - [miantiao-me/astro-aria](https://github.com/miantiao-me/astro-aria) - A personal blog, portfolio, or blog template
 
 ## AutoIt 
@@ -68,6 +69,7 @@
 
 ## C 
 
+- [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
 - [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) - CoolPotOS for ia32 / amd64 / riscv64
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
 - [veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918) - CVE-2022-34918 netfilter nf_tables 本地提权 POC
@@ -109,6 +111,8 @@
 
 ## C++ 
 
+- [S3N4T0R-0X0/PixelCode-Attack](https://github.com/S3N4T0R-0X0/PixelCode-Attack) - Malicious PixelCode is a security research project that demonstrates a covert technique for encoding executable files into pixel data and storing them inside images or videos. A lightweight loader ret
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -145,7 +149,7 @@
 ## Cuda 
 
 - [computerhistory/AlexNet-Source-Code](https://github.com/computerhistory/AlexNet-Source-Code) - This package contains the original 2012 AlexNet code.
-- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+- [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient BLAS kernel library on GPU
 - [XuezheMax/megalodon](https://github.com/XuezheMax/megalodon) - Reference implementation of Megalodon 7B model
 
 ## Cython 
@@ -172,9 +176,9 @@
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -188,8 +192,10 @@
 
 ## HTML 
 
+- [D2I-ai/awesome-recursive-self-improving-agents](https://github.com/D2I-ai/awesome-recursive-self-improving-agents) - Survey: The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions
 - [SimplicialCat/SimplicialCat.github.io](https://github.com/SimplicialCat/SimplicialCat.github.io) - 
 - [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
+- [ranuts/document](https://github.com/ranuts/document) - Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
 - [crazypeace/Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) - 使用秘密路径访问操作页面. 支持自定义短链. API 不公开服务. 页面缓存设置过的短链. 长链接文本框预搜索localStorage. 增加删除某条短链的按钮. 增加读取KV的按钮. 支持QRcode二维码. 变身网络记事本 Pastebin. 变身图床 Image Hosting. 变身网络日记本. A URL Shortener created using Cloudflare worker
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
@@ -210,6 +216,10 @@
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [ecomfe/echarts-stat](https://github.com/ecomfe/echarts-stat) - Statistics tool for Apache ECharts
 
+## Inno Setup 
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
+
 ## Java 
 
 - [ORCID/ORCID-Source](https://github.com/ORCID/ORCID-Source) - ORCID Open Source Project
@@ -228,7 +238,6 @@
 
 ## JavaScript 
 
-- [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 - [self-rewarding-llm-training/self-rewarding-llm-training.github.io](https://github.com/self-rewarding-llm-training/self-rewarding-llm-training.github.io) - 
@@ -238,11 +247,10 @@
 - [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt) - Trying to reproduce CVE-2021-43908
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [Dyalog/TryAPL](https://github.com/Dyalog/TryAPL) - This is the source code for TryAPL.org
-- [rin0chan/KFC-Crazy-Thursday](https://github.com/rin0chan/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
+- [totoneei/KFC-Crazy-Thursday](https://github.com/totoneei/KFC-Crazy-Thursday) - 肯德基疯狂星期四段子收录
 - [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索
 - [aquiladev/ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for upload to IPFS. Supports Pinata, Infura pinning service as well as direct upload.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -257,7 +265,7 @@
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [eoiles/eoiles.github.io](https://github.com/eoiles/eoiles.github.io) - 
-- [sablejs/sablejs](https://github.com/sablejs/sablejs) - 🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
+- [ErosZy/sablejs](https://github.com/ErosZy/sablejs) - Run user plugins, rules, formulas, and AI-generated JavaScript safely in browsers.
 - [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appli
 - [plazum/find-keke](https://github.com/plazum/find-keke) - 寻找唐可可
 - [woai3c/nand2tetris](https://github.com/woai3c/nand2tetris) - 计算机系统要素-从零开始构建现代计算机
@@ -285,7 +293,6 @@
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
 - [pbondoer/bubble-bg](https://github.com/pbondoer/bubble-bg) - A small JavaScript animated bubble background. Pure JS!
 - [chrisfosterelli/akismet-api](https://github.com/chrisfosterelli/akismet-api) - Nodejs bindings to the Akismet (https://akismet.com) spam detection service
-- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
@@ -375,6 +382,8 @@
 
 ## Lean 
 
+- [anthropics/formal-math](https://github.com/anthropics/formal-math) - 
+- [openai/ten-proofs](https://github.com/openai/ten-proofs) - Lean certificates accompanying ten proofs in mathematics and theoretical computer science
 - [google-deepmind/alphaproof-nexus-results](https://github.com/google-deepmind/alphaproof-nexus-results) - Lean math proofs generated by AlphaProof Nexus and accompanying natural language prose proofs.
 - [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
 - [teorth/equational_theories](https://github.com/teorth/equational_theories) - A project to map out the relations between different equational theories of Magmas.
@@ -409,14 +418,13 @@
 
 ## Others 
 
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [hzg0601/LLM-Algorithm-Stack_Training-and-Inferring](https://github.com/hzg0601/LLM-Algorithm-Stack_Training-and-Inferring) - A book about Training and Inferring Technology Stack of LLM
-- [nv-tlabs/Gamma-World](https://github.com/nv-tlabs/Gamma-World) - Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
 - [holyshell/Books](https://github.com/holyshell/Books) - Some special ebooks，一些个人喜欢同时也比较特别的电子书
 - [cooperleong00/Awesome-LLM-Interpretability](https://github.com/cooperleong00/Awesome-LLM-Interpretability) - A curated list of LLM Interpretability related material - Tutorial, Library, Survey, Paper, Blog, etc..
 - [hangli-hl/AI-Articles](https://github.com/hangli-hl/AI-Articles) - This repository contains articles about AI, written by Hang Li and his collaborators
 - [NTUMARS/Awesome-World-Model-for-Robotics-Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) - 
-- [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup(Work In Progress & Pending Integration)
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [MoonshotAI/Attention-Residuals](https://github.com/MoonshotAI/Attention-Residuals) - 
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
@@ -424,7 +432,7 @@
 - [salcaraz/Quantum](https://github.com/salcaraz/Quantum) - Quantum computing books
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [liudaizong/Awesome-LVLM-Attack](https://github.com/liudaizong/Awesome-LVLM-Attack) - 😎 up-to-date & curated list of awesome Attacks on Large-Vision-Language-Models papers, methods & resources.
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [travisgoodspeed/gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial) - Tutorial for extracting the GameBoy ROM from photographs of the die.
@@ -434,7 +442,7 @@
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [jlopp/physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp) - 警惕 一种针对红队的新型溯源手段!
 - [lichuang/data-infra-paper-reading-cn](https://github.com/lichuang/data-infra-paper-reading-cn) - 存储（分布式、存储引擎等）领域相关的论文阅读笔记
@@ -450,6 +458,7 @@
 - [yourfirstnft/YourFirstNFT](https://github.com/yourfirstnft/YourFirstNFT) - 进入 Web3 第一步，从拥有第一张 NFT 开始。
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
+- [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
@@ -473,7 +482,7 @@
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [lucasjinreal/awesome_transformer](https://github.com/lucasjinreal/awesome_transformer) - A curated list of transformer learning materials, shared blogs, technical reviews.
-- [amusi/ECCV2024-Papers-with-Code](https://github.com/amusi/ECCV2024-Papers-with-Code) - ECCV 2024 论文和开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2024论文和开源项目
+- [amusi/ECCV2026-Papers-with-Code](https://github.com/amusi/ECCV2026-Papers-with-Code) - ECCV 2026 论文和开源项目合集，同时欢迎各位大佬提交issue，分享ECCV 2026论文和开源项目
 - [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision) - 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [amusi/CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) - CVPR 2026 论文和开源项目合集
 - [cosmologicon/pywat](https://github.com/cosmologicon/pywat) - Python wats
@@ -517,11 +526,16 @@
 
 ## Python 
 
+- [MatrAIx-ai/MatrAIx-Persona-8B](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) - Simulate Before Reality.
+- [wangqinsi1/RLSVR](https://github.com/wangqinsi1/RLSVR) - [COLM 2026] From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement.
+- [lvy010/AI-wiki](https://github.com/lvy010/AI-wiki) - AI Full Stack: Data, Algorithms, Models, Hardware, Architecture
+- [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) - Companion code for the global workspace interpretability paper
 - [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text) - HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
-- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.
+- [nv-tlabs/Gamma-World](https://github.com/nv-tlabs/Gamma-World) - Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
+- [he-yufeng/CoreCoder](https://github.com/he-yufeng/CoreCoder) - Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.
 - [decoderesearch/SAELens](https://github.com/decoderesearch/SAELens) - Training Sparse Autoencoders on Language Models
 - [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
 - [ZiyuGuo99/ATLAS](https://github.com/ZiyuGuo99/ATLAS) - One Discrete Word for Visual Reasoning Overtakes Agentic and Latent Methods
 - [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) - Self-referential self-improving agents that can optimize for any computable task
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -532,10 +546,8 @@
 - [Jiawei-Yang/FD-Loss](https://github.com/Jiawei-Yang/FD-Loss) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 - [GAIR-NLP/ASI-Evolve](https://github.com/GAIR-NLP/ASI-Evolve) - 
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [jgamblin/OpenClawCVEs](https://github.com/jgamblin/OpenClawCVEs) - Tracking OpenClaw CVEs
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
@@ -544,7 +556,7 @@
 - [uraniceye/nexus-quantum-core](https://github.com/uraniceye/nexus-quantum-core) - Core quantum simulation library for the NEXUS Quantum Defense project.
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
 - [stanford-cs221/autumn2025-lectures](https://github.com/stanford-cs221/autumn2025-lectures) - Executable lectures for Autumn 2025
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) - 🧬 The Huxley-Gödel Machine
 - [jennyzzt/dgm](https://github.com/jennyzzt/dgm) - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
 - [waltonfuture/MM-UPT](https://github.com/waltonfuture/MM-UPT) - [NeurIPS 2025] First SFT, Second RL, Third UPT: Continual Improving Multi-Modal LLM Reasoning via Unsupervised Post-Training
@@ -588,7 +600,7 @@
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes and textbook for robotics algorithms.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [zjc062/mind-vis](https://github.com/zjc062/mind-vis) - Code base for MinD-Vis
@@ -623,8 +635,8 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [leamoon/StochasticNet](https://github.com/leamoon/StochasticNet) - Nerual Network of Stochastic Computing for MNIST Recognition
 - [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
-- [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
+- [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [sh3d0ww01f/WaterDragon](https://github.com/sh3d0ww01f/WaterDragon) - WaterDragon:用GithubAction实现代理功能。红队,cve,代理池,隐匿,攻防,对抗，hackone,src,proxy,CVE-2020,CVE-2021,CVE-2022
@@ -637,7 +649,6 @@
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR'22] ICON: Implicit Clothed humans Obtained from Normals
-- [MHuiG/friends](https://github.com/MHuiG/friends) - 我的小伙伴们
 - [MHG-LAB/RSSBOX](https://github.com/MHG-LAB/RSSBOX) - MHuiGのRSS订阅
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [DevashishPrasad/CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet) - This repository contains the code and implementation details of the CascadeTabNet paper "CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents"
@@ -655,7 +666,6 @@
 - [hendrycks/math](https://github.com/hendrycks/math) - The MATH Dataset (NeurIPS 2021)
 - [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) - [NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [TorchSSL/TorchSSL](https://github.com/TorchSSL/TorchSSL) - A PyTorch-based library for semi-supervised learning (NeurIPS'21)
 - [ModelTC/United-Perception](https://github.com/ModelTC/United-Perception) - United Perception
 - [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
@@ -740,7 +750,7 @@
 - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) - PyTorch ,ONNX and TensorRT implementation of YOLOv4
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [ztygalaxy/Hello_HDU](https://github.com/ztygalaxy/Hello_HDU) - 杭州电子科技大学计算机考研信息汇总/杭电考研/HDU考研 by 张天宇
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [zhanghang1989/ResNeSt](https://github.com/zhanghang1989/ResNeSt) - ResNeSt: Split-Attention Networks
 - [BlankerL/DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler) - 2019新型冠状病毒疫情实时爬虫及API | COVID-19/2019-nCoV Realtime Infection Crawler and API
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
@@ -804,7 +814,9 @@
 
 ## Rust 
 
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
+- [lvy010/lvynote](https://github.com/lvy010/lvynote) - Notebook backup
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
@@ -830,6 +842,7 @@
 
 ## Shell 
 
+- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 4B, Pi400 and the latest Raspberry Pi 5
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -871,11 +884,17 @@
 
 ## TypeScript 
 
+- [anghunk/cwd](https://github.com/anghunk/cwd) - 基于 Cloudflare Workers 与全球边缘网络的免服务器、极速安全、即插即用评论系统。
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+- [rrCathy/GroupViz](https://github.com/rrCathy/GroupViz) - Interactive group theory visualization & learning tool
+- [xingwangzhe/FriendLinks](https://github.com/xingwangzhe/FriendLinks) - 探索浩瀚的博客宇宙，寻找彼此之间的联系。每个节点是一个博客，每条连线是一段友链关系。
+- [mortspace/playcaptcha](https://github.com/mortspace/playcaptcha) - A claw-machine human check for React — grab the right toy to prove you're human
+- [timwehrle/favicon](https://github.com/timwehrle/favicon) - Store your websites content in the favicon of your site.
 - [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
 - [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) - 开源blog，让你不写代码就开始写 blog，管理 blog 内容。无需服务器，无需费用。
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [photon-hq/qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) - Reverse-engineered TypeScript client for QClaw's WeChat Access API.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -893,7 +912,7 @@
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-- [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
+- [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，支持收发邮件，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -906,7 +925,7 @@
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [QiShaoXuan/wavejs](https://github.com/QiShaoXuan/wavejs) - A flexible, configurable animation of wave - 一个灵活的可配置的波浪动画
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [hieunc229/copilot-clone](https://github.com/hieunc229/copilot-clone) - VSCode extension for code suggestion
@@ -921,8 +940,8 @@
 - [opensec-cn/crx-scouter](https://github.com/opensec-cn/crx-scouter) - 🔎  crx-scouter.js can detect which Chrome extensions we are using quietly.
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
 - [web3/web3.js](https://github.com/web3/web3.js) - Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [handtracking-io/yoha](https://github.com/handtracking-io/yoha) - A practical hand tracking engine.
 - [chinese-chess-everywhere/type-chess](https://github.com/chinese-chess-everywhere/type-chess) - 一个玩具，用 TypeScript 类型系统写的中国象棋
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -939,6 +958,7 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
 - [eleith/emailjs](https://github.com/eleith/emailjs) - html emails and attachments to any smtp server with nodejs
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [lawvs/buddy-github-events](https://github.com/lawvs/buddy-github-events) - View broadcast/received GItHub events from other people or organizations. 他の人や組織からの放送した/受信したGItHubアクティビティを見る。偷看大佬们的GitHub动态。
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
@@ -960,6 +980,7 @@
 ## Vue 
 
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe) - Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [HoshinoSuzumi/CTFever](https://github.com/HoshinoSuzumi/CTFever) - Fantastic toolkit for CTFers and everyone.
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
