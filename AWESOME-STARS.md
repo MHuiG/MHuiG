@@ -383,6 +383,8 @@
 
 ## Lean 
 
+- [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) - Lean certificates accompanying Navier-Stokes and Euler results
+- [tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean) - 
 - [AxiomMath/ZetaZeros](https://github.com/AxiomMath/ZetaZeros) - 
 - [subfish-zhou/goldbach-lean](https://github.com/subfish-zhou/goldbach-lean) - A Lean 4 formalization of Chen's theorem (Goldbach 1+2).
 - [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) - 
@@ -530,6 +532,7 @@
 
 ## Python 
 
+- [MirroS-Lab/S-Space](https://github.com/MirroS-Lab/S-Space) - S-Space: Exploring Spatial Workspace in Multimodal Models
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [MatrAIx-ai/MatrAIx-Persona-8B](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) - Simulate Before Reality.
 - [wangqinsi1/RLSVR](https://github.com/wangqinsi1/RLSVR) - [COLM 2026] From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement.
