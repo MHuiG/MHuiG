@@ -192,6 +192,7 @@
 
 ## HTML 
 
+- [Self-Developing-Agents/Self-Developing-Agents.github.io](https://github.com/Self-Developing-Agents/Self-Developing-Agents.github.io) - Self-Developing Agents — research blog
 - [D2I-ai/awesome-recursive-self-improving-agents](https://github.com/D2I-ai/awesome-recursive-self-improving-agents) - Survey: The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions
 - [SimplicialCat/SimplicialCat.github.io](https://github.com/SimplicialCat/SimplicialCat.github.io) - 
 - [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
@@ -531,6 +532,7 @@
 
 ## Python 
 
+- [TheJustinSunPrize/awards](https://github.com/TheJustinSunPrize/awards) - Canonical, machine-checkable record of the Justin Sun Prize: rules, awards, candidates, and verification evidence.
 - [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent) - A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
