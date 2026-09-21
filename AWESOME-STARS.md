@@ -198,6 +198,7 @@
 - [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
 - [crazypeace/Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) - 使用秘密路径访问操作页面. 支持自定义短链. API 不公开服务. 页面缓存设置过的短链. 长链接文本框预搜索localStorage. 增加删除某条短链的按钮. 增加读取KV的按钮. 支持QRcode二维码. 变身网络记事本 Pastebin. 变身图床 Image Hosting. 变身网络日记本. A URL Shortener created using Cloudflare worker
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [jlopp/physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 - [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 - [rollingpwn/rolling-pwn](https://github.com/rollingpwn/rolling-pwn) - rolling pwn
 - [fontforge/designwithfontforge.com](https://github.com/fontforge/designwithfontforge.com) - A book about how to design new typefaces with FontForge
@@ -238,6 +239,7 @@
 
 ## JavaScript 
 
+- [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 - [self-rewarding-llm-training/self-rewarding-llm-training.github.io](https://github.com/self-rewarding-llm-training/self-rewarding-llm-training.github.io) - 
@@ -446,7 +448,6 @@
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
-- [jlopp/physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
