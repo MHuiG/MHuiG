@@ -25,6 +25,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -382,6 +383,10 @@
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
 - [REMitchell/python-scraping](https://github.com/REMitchell/python-scraping) - Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do
 
+## Kotlin 
+
+- [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+
 ## Lean 
 
 - [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) - Lean certificates accompanying Navier-Stokes and Euler results
@@ -570,7 +575,7 @@
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
 - [uraniceye/nexus-quantum-core](https://github.com/uraniceye/nexus-quantum-core) - Core quantum simulation library for the NEXUS Quantum Defense project.
 - [msanft/CVE-2025-55182](https://github.com/msanft/CVE-2025-55182) - Explanation and full RCE PoC for CVE-2025-55182
-- [stanford-cs221/autumn2025-lectures](https://github.com/stanford-cs221/autumn2025-lectures) - Executable lectures for Autumn 2025
+- [stanford-cs221/lectures](https://github.com/stanford-cs221/lectures) - Executable lectures for Autumn 2025
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [metauto-ai/HGM](https://github.com/metauto-ai/HGM) - 🧬 The Huxley-Gödel Machine
 - [jennyzzt/dgm](https://github.com/jennyzzt/dgm) - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
