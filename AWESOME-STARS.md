@@ -539,6 +539,7 @@
 
 ## Python 
 
+- [pkuxmq/Brain-guided_LLM](https://github.com/pkuxmq/Brain-guided_LLM) - [Nature Machine Intelligence 2026] Beyond representational alignment with brain-guided language models for robust reasoning
 - [TheJustinSunPrize/awards](https://github.com/TheJustinSunPrize/awards) - Canonical, machine-checkable record of the Justin Sun Prize: rules, awards, candidates, and verification evidence.
 - [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent) - A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
