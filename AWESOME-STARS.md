@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [Dstty/Transfinite-Ordinals-Explorer](https://github.com/Dstty/Transfinite-Ordinals-Explorer) - 
 - [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) - Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
