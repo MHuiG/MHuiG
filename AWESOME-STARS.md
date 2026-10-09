@@ -542,6 +542,7 @@
 
 ## Python 
 
+- [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) - Conditional integer multiplication: kappa &gt; 2^-15. Community proofs, exact certificates and reproducible audits; assumes the OpenAI #109 framework.
 - [pkuxmq/Brain-guided_LLM](https://github.com/pkuxmq/Brain-guided_LLM) - [Nature Machine Intelligence 2026] Beyond representational alignment with brain-guided language models for robust reasoning
 - [TheJustinSunPrize/awards](https://github.com/TheJustinSunPrize/awards) - Canonical, machine-checkable record of the Justin Sun Prize: rules, awards, candidates, and verification evidence.
 - [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent) - A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.
@@ -901,6 +902,7 @@
 
 ## TeX 
 
+- [Argonaut-Math/argonaut-math-quasi-riemann-boundary](https://github.com/Argonaut-Math/argonaut-math-quasi-riemann-boundary) - English paper and Lean 4 proof sources for a refinement of the quasi-Riemann zero-free boundary from 7/8 to 3499999/4000000.
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
 - [wenweili/AlJabr-2](https://github.com/wenweili/AlJabr-2) - Methods in Algebra (Volume 2): A Chinese textbook on Algebra
