@@ -912,6 +912,7 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [CosmosMind-ai/RSI-Harness](https://github.com/CosmosMind-ai/RSI-Harness) - RSIH — versionable, shareable agent harness: Pi coding agent + Genome config layer
 - [anghunk/cwd](https://github.com/anghunk/cwd) - 基于 Cloudflare Workers 与全球边缘网络的免服务器、极速安全、即插即用评论系统。
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
