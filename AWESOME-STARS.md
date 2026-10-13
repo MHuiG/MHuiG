@@ -193,6 +193,7 @@
 
 ## HTML 
 
+- [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) - RSI-Anything: Unlocking Recursive Self-Improvement with World Models
 - [Self-Developing-Agents/Self-Developing-Agents.github.io](https://github.com/Self-Developing-Agents/Self-Developing-Agents.github.io) - Self-Developing Agents — research blog
 - [D2I-ai/awesome-recursive-self-improving-agents](https://github.com/D2I-ai/awesome-recursive-self-improving-agents) - Survey: The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions
 - [SimplicialCat/SimplicialCat.github.io](https://github.com/SimplicialCat/SimplicialCat.github.io) - 
@@ -542,6 +543,7 @@
 
 ## Python 
 
+- [Gen-Verse/JEPA-Anything](https://github.com/Gen-Verse/JEPA-Anything) - JEPA-Anything: Learning Predictive Models across Different Worlds
 - [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) - Conditional integer multiplication: kappa &gt; 2^-15. Community proofs, exact certificates and reproducible audits; assumes the OpenAI #109 framework.
 - [pkuxmq/Brain-guided_LLM](https://github.com/pkuxmq/Brain-guided_LLM) - [Nature Machine Intelligence 2026] Beyond representational alignment with brain-guided language models for robust reasoning
 - [TheJustinSunPrize/awards](https://github.com/TheJustinSunPrize/awards) - Canonical, machine-checkable record of the Justin Sun Prize: rules, awards, candidates, and verification evidence.
@@ -926,7 +928,7 @@
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
 - [photon-hq/qclaw-wechat-client](https://github.com/photon-hq/qclaw-wechat-client) - Reverse-engineered TypeScript client for QClaw's WeChat Access API.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-- [ranuts/document](https://github.com/ranuts/document) - Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
+- [ranuts/document](https://github.com/ranuts/document) - Local-first browser editor for Word, Excel, PowerPoint and PDF, with an experimental AI assistant. No Office installation or account required.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 - [flashbots/searcher-sponsored-tx](https://github.com/flashbots/searcher-sponsored-tx) - 
