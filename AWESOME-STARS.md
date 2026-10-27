@@ -70,6 +70,7 @@
 
 ## C 
 
+- [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) - GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 - [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
 - [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) - CoolPotOS for ia32 / amd64 / riscv64
 - [califio/publications](https://github.com/califio/publications) - Publications from Calif
@@ -518,7 +519,6 @@
 - [geek-jiaxu/books](https://github.com/geek-jiaxu/books) - 数学教程-高等数学、概率论与数理统计、线性代数
 - [SYSU-SAIL/Stereo-Image-SR](https://github.com/SYSU-SAIL/Stereo-Image-SR) - A Collection of Algorithms and Datasets for Stereo Image Super-Resolution
 - [lightfield-analysis/resources](https://github.com/lightfield-analysis/resources) - A list of data sets and other resources for light fields for computer vision
-- [kespindler/python-tesseract](https://github.com/kespindler/python-tesseract) - 
 - [ellerbrock/open-source-badges](https://github.com/ellerbrock/open-source-badges) - :octocat: Open Source & Licence Badges
 - [DataXujing/CNN-paper2](https://github.com/DataXujing/CNN-paper2) - :art: :art: 深度学习 卷积神经网络教程 ：图像识别，目标检测，语义分割，实例分割，人脸识别，神经风格转换，GAN等:art::art:  https://dataxujing.github.io/CNN-paper2/
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
