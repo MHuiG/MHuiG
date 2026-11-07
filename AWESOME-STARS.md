@@ -902,6 +902,7 @@
 
 ## TeX 
 
+- [JoseBrox/diophantine-z-q_improvements](https://github.com/JoseBrox/diophantine-z-q_improvements) - 
 - [Argonaut-Math/argonaut-math-quasi-riemann-boundary](https://github.com/Argonaut-Math/argonaut-math-quasi-riemann-boundary) - English paper and Lean 4 proof sources for a refinement of the quasi-Riemann zero-free boundary from 7/8 to 3499999/4000000.
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
