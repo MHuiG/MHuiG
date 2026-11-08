@@ -468,7 +468,6 @@
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [opsre/Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [Puliczek/awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
@@ -543,6 +542,8 @@
 
 ## Python 
 
+- [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL
+- [JoseBrox/diophantine-z-q_improvements](https://github.com/JoseBrox/diophantine-z-q_improvements) - 
 - [Gen-Verse/JEPA-Anything](https://github.com/Gen-Verse/JEPA-Anything) - JEPA-Anything: Learning Predictive Models across Different Worlds
 - [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) - Conditional integer multiplication: kappa &gt; 2^-15. Community proofs, exact certificates and reproducible audits; assumes the OpenAI #109 framework.
 - [pkuxmq/Brain-guided_LLM](https://github.com/pkuxmq/Brain-guided_LLM) - [Nature Machine Intelligence 2026] Beyond representational alignment with brain-guided language models for robust reasoning
@@ -664,6 +665,7 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [leamoon/StochasticNet](https://github.com/leamoon/StochasticNet) - Nerual Network of Stochastic Computing for MNIST Recognition
 - [lucasjinreal/yolov7_d2](https://github.com/lucasjinreal/yolov7_d2) - 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
@@ -902,7 +904,6 @@
 
 ## TeX 
 
-- [JoseBrox/diophantine-z-q_improvements](https://github.com/JoseBrox/diophantine-z-q_improvements) - 
 - [Argonaut-Math/argonaut-math-quasi-riemann-boundary](https://github.com/Argonaut-Math/argonaut-math-quasi-riemann-boundary) - English paper and Lean 4 proof sources for a refinement of the quasi-Riemann zero-free boundary from 7/8 to 3499999/4000000.
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
