@@ -543,7 +543,6 @@
 ## Python 
 
 - [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL
-- [JoseBrox/diophantine-z-q_improvements](https://github.com/JoseBrox/diophantine-z-q_improvements) - 
 - [Gen-Verse/JEPA-Anything](https://github.com/Gen-Verse/JEPA-Anything) - JEPA-Anything: Learning Predictive Models across Different Worlds
 - [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) - Conditional integer multiplication: kappa &gt; 2^-15. Community proofs, exact certificates and reproducible audits; assumes the OpenAI #109 framework.
 - [pkuxmq/Brain-guided_LLM](https://github.com/pkuxmq/Brain-guided_LLM) - [Nature Machine Intelligence 2026] Beyond representational alignment with brain-guided language models for robust reasoning
@@ -904,6 +903,7 @@
 
 ## TeX 
 
+- [JoseBrox/diophantine-z-q_improvements](https://github.com/JoseBrox/diophantine-z-q_improvements) - 
 - [Argonaut-Math/argonaut-math-quasi-riemann-boundary](https://github.com/Argonaut-Math/argonaut-math-quasi-riemann-boundary) - English paper and Lean 4 proof sources for a refinement of the quasi-Riemann zero-free boundary from 7/8 to 3499999/4000000.
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
