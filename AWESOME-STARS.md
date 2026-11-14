@@ -194,6 +194,7 @@
 
 ## HTML 
 
+- [subfish-zhou/conditional-goldbach-lean](https://github.com/subfish-zhou/conditional-goldbach-lean) - Lean 4 formalization of conditional Goldbach results under GRH and spectral assumptions, with independent TeX and comparator audits.
 - [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) - RSI-Anything: Unlocking Recursive Self-Improvement with World Models
 - [Self-Developing-Agents/Self-Developing-Agents.github.io](https://github.com/Self-Developing-Agents/Self-Developing-Agents.github.io) - Self-Developing Agents — research blog
 - [D2I-ai/awesome-recursive-self-improving-agents](https://github.com/D2I-ai/awesome-recursive-self-improving-agents) - Survey: The Path to Recursive Self-Improving Agents: Foundation, Framework, and Future Directions
@@ -551,7 +552,7 @@
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 - [MirroS-Lab/S-Space](https://github.com/MirroS-Lab/S-Space) - S-Space: Exploring Spatial Workspace in Multimodal Models
-- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
+- [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [MatrAIx-ai/MatrAIx-Persona-8B](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) - Simulate Before Reality.
 - [wangqinsi1/Vision-Zero](https://github.com/wangqinsi1/Vision-Zero) - [COLM 2026] From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement.
 - [lvy010/AI-wiki](https://github.com/lvy010/AI-wiki) - AI Full Stack: Data, Algorithms, Models, Hardware, Architecture
