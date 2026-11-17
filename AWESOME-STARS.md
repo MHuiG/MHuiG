@@ -229,7 +229,7 @@
 - [ORCID/ORCID-Source](https://github.com/ORCID/ORCID-Source) - ORCID Open Source Project
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [unicode-org/cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+- [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
 - [veo/wsMemShell](https://github.com/veo/wsMemShell) - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
