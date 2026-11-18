@@ -301,7 +301,7 @@
 - [pbondoer/bubble-bg](https://github.com/pbondoer/bubble-bg) - A small JavaScript animated bubble background. Pure JS!
 - [chrisfosterelli/akismet-api](https://github.com/chrisfosterelli/akismet-api) - Nodejs bindings to the Akismet (https://akismet.com) spam detection service
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+- [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - [ BEWARE: NO MAINTAINER ] An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no_entry_sign:
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
