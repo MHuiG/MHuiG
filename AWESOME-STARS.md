@@ -550,7 +550,7 @@
 - [TheJustinSunPrize/awards](https://github.com/TheJustinSunPrize/awards) - Canonical, machine-checkable record of the Justin Sun Prize: rules, awards, candidates, and verification evidence.
 - [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent) - A training-free multi-agent framework for recursive self-improvement in new environments through broad-then-deep autonomous exploration and reusable memory.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.
 - [MirroS-Lab/S-Space](https://github.com/MirroS-Lab/S-Space) - S-Space: Exploring Spatial Workspace in Multimodal Models
 - [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [MatrAIx-ai/MatrAIx-Persona-8B](https://github.com/MatrAIx-ai/MatrAIx-Persona-8B) - Simulate Before Reality.
