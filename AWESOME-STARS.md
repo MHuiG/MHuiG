@@ -338,6 +338,7 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Neutree/note](https://github.com/Neutree/note) - just note , take down what ever i want
 - [notablemind/jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs) - A node.js kernel for jupyter/ipython
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
@@ -392,6 +393,7 @@
 
 ## Lean 
 
+- [Mira-Cult/math](https://github.com/Mira-Cult/math) - 
 - [openai/math](https://github.com/openai/math) - 
 - [qinz1yang/differential-geometry](https://github.com/qinz1yang/differential-geometry) - A general geometry library in LEAN 4.
 - [mo271/Zeta5](https://github.com/mo271/Zeta5) - 
@@ -418,7 +420,6 @@
 ## MDX 
 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -544,6 +545,7 @@
 ## Python 
 
 - [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL
+- [JoseBrox/diophantine-z-q_improvements](https://github.com/JoseBrox/diophantine-z-q_improvements) - 
 - [Gen-Verse/JEPA-Anything](https://github.com/Gen-Verse/JEPA-Anything) - JEPA-Anything: Learning Predictive Models across Different Worlds
 - [CrocSwap/integer-mult-bounds](https://github.com/CrocSwap/integer-mult-bounds) - Conditional integer multiplication: kappa &gt; 2^-15. Community proofs, exact certificates and reproducible audits; assumes the OpenAI #109 framework.
 - [pkuxmq/Brain-guided_LLM](https://github.com/pkuxmq/Brain-guided_LLM) - [Nature Machine Intelligence 2026] Beyond representational alignment with brain-guided language models for robust reasoning
@@ -904,7 +906,6 @@
 
 ## TeX 
 
-- [JoseBrox/diophantine-z-q_improvements](https://github.com/JoseBrox/diophantine-z-q_improvements) - 
 - [Argonaut-Math/argonaut-math-quasi-riemann-boundary](https://github.com/Argonaut-Math/argonaut-math-quasi-riemann-boundary) - English paper and Lean 4 proof sources for a refinement of the quasi-Riemann zero-free boundary from 7/8 to 3499999/4000000.
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
