@@ -882,7 +882,7 @@
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [cblp/yaml-sucks](https://github.com/cblp/yaml-sucks) - YAML sucks.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
 - [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
@@ -906,6 +906,7 @@
 
 ## TeX 
 
+- [sahibzada-allahyar/math](https://github.com/sahibzada-allahyar/math) - 
 - [Argonaut-Math/argonaut-math-quasi-riemann-boundary](https://github.com/Argonaut-Math/argonaut-math-quasi-riemann-boundary) - English paper and Lean 4 proof sources for a refinement of the quasi-Riemann zero-free boundary from 7/8 to 3499999/4000000.
 - [yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) - 线性代数：未竟之美
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
