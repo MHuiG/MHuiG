@@ -393,6 +393,7 @@
 
 ## Lean 
 
+- [mccorvie/riemann-masullo](https://github.com/mccorvie/riemann-masullo) - Lean 4 formalization of A. M. Masullo, The Music of the Primes
 - [Mira-Cult/math](https://github.com/Mira-Cult/math) - 
 - [openai/math](https://github.com/openai/math) - 
 - [qinz1yang/differential-geometry](https://github.com/qinz1yang/differential-geometry) - A general geometry library in LEAN 4.
