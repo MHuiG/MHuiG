@@ -394,6 +394,7 @@
 
 ## Lean 
 
+- [lsernau/grh-lean](https://github.com/lsernau/grh-lean) - A short Lean 4 proof of the Generalized Riemann Hypothesis
 - [mccorvie/riemann-masullo](https://github.com/mccorvie/riemann-masullo) - Lean 4 formalization of A. M. Masullo, The Music of the Primes
 - [Mira-Cult/math](https://github.com/Mira-Cult/math) - 
 - [openai/math](https://github.com/openai/math) - 
